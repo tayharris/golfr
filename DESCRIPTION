@@ -1,12 +1,13 @@
-Package: datagolfr
-Title: What the Package Does (One Line, Title Case)
+Package: golfr
+Title: Package for doing analysis on strokes gained golf data and importing from datagolf.com api.
 Version: 0.0.0.9000
 Authors@R: 
-    person("Taylor", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Taylor", "Harris", , "tay2four@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Suggests: 
+    httptest,
     roxygen2,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
@@ -14,4 +15,9 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
-    rlang (>= 0.4.11)
+    dplyr,
+    httptest,
+    httr,
+    jsonlite,
+    rlang (>= 0.4.11),
+    withr
