@@ -1,0 +1,11 @@
+kind: pipeline
+type: docker
+name: golfr main
+
+steps:
+  - name: install dependencies and run tests
+    image: rocker/tidyverse:4.3.2
+    commands:
+      - R -e 'install.packages("devtools")'
+      - R -e 'devtools::install_deps(dependencies = TRUE)'
+      - R -e 'devtools::test()'
