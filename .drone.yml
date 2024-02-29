@@ -8,7 +8,7 @@ trigger:
     - pull_request
   branch:
     - main
-    - develop
+    - staging
 
 steps:
   - name: test
