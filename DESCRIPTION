@@ -21,3 +21,5 @@ Imports:
     jsonlite,
     rlang (>= 0.4.11),
     withr
+URL: https://github.com/tayharris/golfr
+BugReports: https://github.com/tayharris/golfr/issues
