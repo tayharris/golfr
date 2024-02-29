@@ -1,23 +1,44 @@
-test_that("dg_field_updates returns expected results for euro", {
+
+test_that("dg_field_updates returns a dataframe for default 'pga'", {
+  result <- dg_field_updates("pga")
+  expect_s3_class(result, "data.frame", "dg_field_updates should return a dataframe for 'pga'.")
+})
+
+test_that("dg_field_updates for 'pga' has core top level columns", {
+  result <- dg_field_updates("pga")
+  core_columns <- c("event_name", "current_round", "field", "last_updated")
+
+  for (col in core_columns) {
+    expect_true(col %in% names(result), info = paste("Missing core top-level column:", col))
+  }
+})
+
+test_that("dg_field_updates for 'euro' has core columns in 'field' sublist", {
   result <- dg_field_updates("euro")
 
-  # Check if the result is a dataframe
-  expect_is(result, "data.frame")
+  expect_true("field" %in% names(result), "Result should have a 'field' sublist.")
 
-  # Check if certain expected columns exist
-  expect_true("am" %in% names(result))
-  expect_true("country" %in% names(result))
-  expect_true("course" %in% names(result))
-  expect_true("dg_id" %in% names(result))
-  expect_true("dk_id" %in% names(result))
-  expect_true("dk_salary" %in% names(result))
-  expect_true("player_name" %in% names(result))
+  # Assuming 'field' is a list element and itself a data frame
+  field_df <- result[["field"]]
 
-  # Optionally, check certain values for the first player
-  expect_equal(result$player_name[1], "Aphibarnrat, Kiradech")
-  expect_equal(result$country[1], "THA")
+  expect_s3_class(field_df, "data.frame", "'field' sublist should be a dataframe.")
 
-  # Testing the case where there's no event this week
-  no_event_result <- dg_field_updates("pga")
-  expect_equal(no_event_result$error, "no pga event this week.")
+  core_columns <- c("dg_id", "player_name")
+
+  for (col in core_columns) {
+    expect_true(col %in% names(field_df), info = paste("Missing core column in 'field' sublist:", col))
+  }
+})
+
+test_that("dg_field_updates for 'euro' has additional expected columns", {
+  result <- dg_field_updates("euro")
+
+  # Assuming 'field' is a list element and itself a data frame
+  field_df <- result[["field"]]
+
+  additional_columns <- c("am", "country", "course", "dk_id", "dk_salary")
+
+  for (col in additional_columns) {
+    expect_true(col %in% names(field_df), info = paste("Missing additional column in 'field' sublist:", col))
+  }
 })

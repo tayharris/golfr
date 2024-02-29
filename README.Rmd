@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/datagolf)](https://CRAN.R-project.org/package=datagolf)
+[![R-CMD-check](https://github.com/tayharris/golfr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tayharris/golfr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of golfR package is to create a set of functions useful in analyzing pro golf tournaments using strokes gained data and interacting with the datagolf.com api.

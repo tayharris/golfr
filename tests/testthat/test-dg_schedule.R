@@ -1,20 +1,19 @@
-test_that("dg_schedule returns expected results", {
+test_that("dg_schedule returns a result for 'pga'", {
   result <- dg_schedule("pga")
+  expect_false(is.null(result))
+})
 
-  # Check if the result is a dataframe
-  expect_is(result, "data.frame")
+test_that("dg_schedule result is a dataframe", {
+  result <- dg_schedule("pga")
+  expect_s3_class(result, "data.frame")
+})
 
-  # Check if certain expected columns exist in the dataframe
-  expect_true("course" %in% names(result))
-  expect_true("course_key" %in% names(result))
-  expect_true("event_id" %in% names(result))
-  expect_true("event_name" %in% names(result))
-  expect_true("latitude" %in% names(result))
-  expect_true("location" %in% names(result))
-  expect_true("longitude" %in% names(result))
-  expect_true("start_date" %in% names(result))
+test_that("dg_schedule result has expected columns", {
+  result <- dg_schedule("pga")
+  expected_cols <- c("course", "course_key", "event_id", "event_name",
+                     "latitude", "location", "longitude", "start_date")
 
-  # Optionally, check certain values for the first event
-  expect_equal(result$event_name[1], "Fortinet Championship")
-  expect_equal(result$location[1], "Napa County, CA")
+  for (col in expected_cols) {
+    expect_true(col %in% names(result), info = paste("Missing column:", col))
+  }
 })

@@ -6,7 +6,7 @@
 get_api_key <- function(){
   api_key <- Sys.getenv("DG_API_KEY")
   if (api_key == "") {
-    stop("API key not set. Please set it using Sys.setenv(API_KEY = 'your_key').")
+    stop("API key not set. Please set it using Sys.setenv(DG_API_KEY = 'your_key').")
   }
   return(api_key)
   }

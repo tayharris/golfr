@@ -18,7 +18,7 @@ dg_field_updates <- function(tour = "pga") {
   get_json <- fromJSON(get_text, flatten = TRUE)
 
   # Convert the JSON data to a dataframe
-  get_df <- as.data.frame(get_json[["field"]])
+  get_df <- as.data.frame(get_json)
 
   return(get_df)
 }

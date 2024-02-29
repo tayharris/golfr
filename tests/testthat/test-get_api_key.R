@@ -1,5 +1,3 @@
-context("Testing get_api_key function")
-
 test_that("get_api_key fetches the API key when set", {
 
   # Temporarily set the environment variable for this test
@@ -10,10 +8,12 @@ test_that("get_api_key fetches the API key when set", {
 })
 
 test_that("get_api_key throws an error when API key is not set", {
-
-  # Temporarily unset the environment variable for this test
+  # Ensure the environment variable is cleared
   withr::local_envvar(c(DG_API_KEY = NULL))
 
-  # Check if the function throws the expected error
-  expect_error(get_api_key(), "API key not set. Please set it using Sys.setenv(API_KEY = 'your_key').")
+  # The error message to be matched exactly as it appears in the function
+  error_msg <- "API key not set. Please set it using Sys.setenv(DG_API_KEY = 'your_key')."
+
+  # Check if the function throws the expected error with the exact message
+  expect_error(get_api_key(), error_msg, fixed = TRUE)
 })
