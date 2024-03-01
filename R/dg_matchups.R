@@ -19,9 +19,15 @@
 # file_format optional
 # Specifies the file format.
 # json (default), csv
-
-
-
+#' Fetch Field Updates from DataGolf.
+#'
+#' @param tour A character string specifying the tour name (default is "pga").
+#' @param market A character string specifying the market (default is "tournament_matchups"), available params ("tournament_matchups", "round_matchups", "3_balls").
+#' @param odds_format A character string specifying the odds format (default is "percent").
+#' @return A dataframe containing betting market matchups for current week tour tournament with a set market of full tournament, round, or threeball.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
 
 dg_matchups <- function(tour = "pga", market = "tournament_matchups",odds_format = "percent"){
 

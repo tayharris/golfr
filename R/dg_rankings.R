@@ -1,3 +1,10 @@
+#' Fetch Golfer Rankings from DataGolf.
+#'
+#' @return A dataframe containing field updates for the specified tour.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#'
 dg_rankings <- function(){
 
   apikey <-  dg_api_key()

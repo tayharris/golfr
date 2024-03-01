@@ -19,13 +19,23 @@
 # file_format optional
 # Specifies the file format.
 # json (default), csv
+#' Fetches betting market matchups for current week tour tournament with a set market for win, top 5, top 10, top 20, miss cut, make cut, and first round leader.
+#'
+#' @param tour A character string specifying the tour name (default is "pga").
+#' @param market A character string specifying the market (default is "win").
+#' @param odds_format A character string specifying the odds format (default is "percent").
+#' @param file_format A character string specifying the file format (default is "json").
+#' @return A dataframe containing betting market matchups for current week tour tournament with a set market of full tournament, round, or threeball.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#' @importFrom dplyr relocate
 
-
-dg_outrights <- function(tour = "pga", market = "win", odds_format = "percent"){
+dg_outrights <- function(tour = "pga", market = "win", odds_format = "percent", file_format = "json"){
 
   apikey <-  dg_api_key()
 
-  call <- paste0("https://feeds.datagolf.com/betting-tools/outrights?","&tour=",tour,"&market=",market,"&odds_format=",odds_format,"&key=",apikey)
+  call <- paste0("https://feeds.datagolf.com/betting-tools/outrights?","&tour=",tour,"&market=",market,"&odds_format=",odds_format,"&file_format=",file_format,"&key=",apikey)
 
   # Getting details in API
   get <- GET(url = call)

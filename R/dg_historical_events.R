@@ -1,3 +1,10 @@
+#' Fetch Historical Event List DataGolf.
+#'
+#' @return A dataframe of all historical events.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#'
 dg_historical_events <- function(){
 
   apikey <-  dg_api_key()

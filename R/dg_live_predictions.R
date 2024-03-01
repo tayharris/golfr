@@ -18,13 +18,22 @@
 # Specifies the file format.
 # json (default), csv
 
+#' Fetch DataGolf live tournament predictions for a specific tour.
+#'
+#' @param tour A character string specifying the tour name (default is "pga").
+#' @param odds_format A character string specifying the odds format (default is "percent").
+#' @param format A character string specifying the file format (default is "json").
+#' @return A dataframe containing predictions for a live event.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
 
-dg_live <- function(tour = "pga", odds_format = "percent") {
+dg_live_predictions <- function(tour = "pga", odds_format = "percent", format = "json") {
   apikey <-  dg_api_key()
 
   live = "https://feeds.datagolf.com/preds/in-play?"
 
-  call <- paste0(live, "&tour=", tour, "&odds_format=", odds_format, "&key=", apikey)
+  call <- paste0(live, "&tour=", tour, "&odds_format=", odds_format, "&format=", format, "&key=", apikey)
 
   # Getting details from the API
   get <- GET(url = call)

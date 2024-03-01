@@ -1,3 +1,13 @@
+#' Fetch Historical Raw Data for Tournament from DataGolf.
+#'
+#' @param tour A character string specifying the tour name (default is "pga").
+#' @param year A character string specifying the year of the tournament (default is "2022").
+#' @param event_id A character string specifying the event id of the tournament (default is "14") Scottie Scheffler Masters.
+#' @return A dataframe containing raw data from the tournament with nested objects of scores, then nested rounds.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#'
 dg_historical_raw_data <- function(
     year = "2022",
     event_id = "14",

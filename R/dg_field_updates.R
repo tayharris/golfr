@@ -5,9 +5,10 @@
 #' @export
 #' @importFrom httr GET content
 #' @importFrom jsonlite fromJSON
+#'
 dg_field_updates <- function(tour = "pga") {
 
-  api_key <- get_api_key()
+  api_key <- dg_api_key()
 
   # Construct the API call URL
   call <- paste0("https://feeds.datagolf.com/field-updates?", "&tour=", tour, "&key=", api_key)

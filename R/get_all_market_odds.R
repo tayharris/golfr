@@ -1,4 +1,4 @@
-get_all_market_odds <- function() {
+get_all_market_odds <- function(tour = "pga") {
 
   # Predefined markets
   markets <- c("win", "top_5", "top_10", "top_20")
@@ -8,8 +8,8 @@ get_all_market_odds <- function() {
 
   for (market in markets) {
     # Fetch odds for the current market
-    market_odds <- dg_outrights("pga", market, "percent") %>%
-      select(-datagolf.baseline, -datagolf.baseline_history_fit, -player_name) %>%
+    market_odds <- dg_outrights(tour, market, "percent") %>%
+     # select(-datagolf.baseline, -datagolf.baseline_history_fit, -player_name) %>%
       rowwise() %>%
       # Calculate consensus probability across all numeric columns except `dg_id`
       mutate(consensus_prob = mean(c_across(where(is.numeric) & !all_of("dg_id")), na.rm = TRUE)) %>%

@@ -1,16 +1,18 @@
-#' Fetch Live Status Info from DataGolf.
+#' Fetch Live Hole Scoring for Current Tournament from DataGolf.
 #'
 #' @param tour A character string specifying the tour name (default is "pga").
-#' @return A dataframe containing status info of current tournament for given tour.
+#' @param odds_format A character string specifying the odds format (default is "percent").
+#' @return A dataframe containing raw data from the tournament with nested objects.
 #' @export
 #' @importFrom httr GET content
 #' @importFrom jsonlite fromJSON
-
-dg_live_status <- function(tour = "pga", odds_format = "percent"){
+#'
+#'
+dg_live_hole_scoring <- function(tour = "pga", odds_format = "percent"){
 
   apikey <-  dg_api_key()
 
-  live = "https://feeds.datagolf.com/preds/in-play?"
+  live = "https://feeds.datagolf.com/preds/live-hole-stats?"
 
   call <- paste0(live,"&tour=",tour, "&odds_format=",odds_format,"&key=",apikey)
 
@@ -27,7 +29,7 @@ dg_live_status <- function(tour = "pga", odds_format = "percent"){
                        flatten = TRUE)
 
   # Converting into dataframe
-  df <- as.data.frame(get_json$info)
+  # df <- as.data.frame(get_json)
 
   return(get_json)
 

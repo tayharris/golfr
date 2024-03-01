@@ -1,9 +1,15 @@
-
-dg_skill_ratings <- function(tour = "pga",odds_format = "percent"){
+#' Fetch Golfer Skill Ratings from DataGolf.
+#'
+#' @return A dataframe containing golfers skill ratings for each golfer with id as dg_id.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#'
+dg_skill_ratings <- function(){
 
   apikey <-  dg_api_key()
 
-  call <- paste0("https://feeds.datagolf.com/preds/skill-ratings?","&key=",apikey)
+  call <- paste0("https://feeds.datagolf.com/preds/skill-ratings?&key=",apikey)
 
   # Getting details in API
   get <- GET(url = call)
