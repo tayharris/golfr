@@ -1,22 +1,3 @@
-# Returns live strokes-gained and traditional stats for every player during PGA Tour tournaments.
-# Data corresponds to Live Tournament Stats page.
-# Endpoint: https://feeds.datagolf.com/preds/live-tournament-stats?stats=[ stats ]&round=[ round ]&display=[ display ]&file_format=[ file_format ]&key
-
-# PARAMETER
-# DESCRIPTION
-# OPTIONS
-# stats optional
-# Comma-separated list of statistics to be returned.
-# sg_putt, sg_arg, sg_app, sg_ott, sg_t2g, sg_bs, sg_total, distance, accuracy, gir, prox_fw, prox_rgh, scrambling
-# round optional
-# Specifies the round.
-# event_avg, 1, 2, 3, 4
-# display optional
-# Specifies how stats are displayed.
-# value (default), rank
-# file_format optional
-# Specifies the file format.
-# json (default), csv
 #' Fetch Live Stats of Current Tournament from DataGolf.
 #'
 #' @param tour A character string specifying the tour name (default is "pga").
@@ -47,8 +28,8 @@ dg_live_stats <- function(stats = c("sg_ott", "distance", "accuracy", "sg_app", 
 
   live_url <- "https://feeds.datagolf.com/preds/live-tournament-stats?"
 
-  call <- paste0(live_url, "stats=", stats, "&round=", round, "&tour=", tour,
-                 "&display=", display, "&file_format=", file_format, "&key=", apikey)
+  call <- paste0(live_url, "stats=", paste(stats, collapse = ","), "&round=", round,
+                 "&tour=", tour, "&display=", display, "&file_format=", file_format, "&key=", apikey)
 
   # Making the API call
   response <- GET(url = call)
@@ -59,5 +40,5 @@ dg_live_stats <- function(stats = c("sg_ott", "distance", "accuracy", "sg_app", 
   # Parsing data from JSON
   parsed_data <- fromJSON(content_text, flatten = TRUE)
 
-  return(parsed_data[["data"]])
+  return(parsed_data[["live_stats"]])
 }

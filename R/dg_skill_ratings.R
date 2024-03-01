@@ -24,7 +24,7 @@ dg_skill_ratings <- function(){
                        flatten = TRUE)
 
   # Converting into dataframe
-  get_df <- as.data.frame(get_json$players) %>%
+  get_df <- as.data.frame(get_json$players) |>
     relocate("dg_id","player_name")
 
 }

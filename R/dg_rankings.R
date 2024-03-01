@@ -23,7 +23,7 @@ dg_rankings <- function(){
   get_json <- fromJSON(get_text,
                        flatten = FALSE)
 
-  get_df <- as.data.frame(get_json$rankings) %>%
+  get_df <- as.data.frame(get_json$rankings) |>
     relocate("dg_id","player_name","datagolf_rank","primary_tour","dg_skill_estimate")
 
 }

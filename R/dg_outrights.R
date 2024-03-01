@@ -50,7 +50,7 @@ dg_outrights <- function(tour = "pga", market = "win", odds_format = "percent", 
                        flatten = TRUE)
 
   # Converting into dataframe
-  get_df <- as.data.frame(get_json$odds) %>%
+  get_df <- as.data.frame(get_json$odds) |>
     relocate("dg_id","player_name")
 
 }

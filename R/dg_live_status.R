@@ -29,7 +29,7 @@ dg_live_status <- function(tour = "pga", odds_format = "percent"){
   # Converting into dataframe
   df <- as.data.frame(get_json$info)
 
-  return(get_json)
+  return(df)
 
 }
 

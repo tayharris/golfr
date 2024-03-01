@@ -1,4 +1,24 @@
-dg_pre_tournament <- function(tour = "pga", odds_format = "percent") {
+#' Fetch Historical Predictions from DataGolf.
+#'
+#' @param tour string of tour to get back current week predictions for before tournament start (default is "pga").
+#' @param odds_format A character string specifying the odds format (default is "percent").
+#' @return A dataframe of event prediction.
+#' @export
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#'
+
+dg_pre_tournament_predictions <- function(tour = "pga", odds_format = "percent") {
+
+  # Check if 'tour' is not one of the allowed values
+  if (!tour %in% c("pga", "euro", "opp", "liv", "alt")) {
+    stop("tour is not a recognized value. Please use one of 'pga', 'euro', 'opp', 'liv', 'alt'.")
+  }
+
+  # Check if 'odds_format' is not one of the allowed values
+  if (!odds_format %in% c("percent", "american", "decimal", "fraction")) {
+    stop("odds_format is not a recognized value. Please use one of 'percent', 'american', 'decimal', 'fraction'.")
+  }
 
   apikey <-  dg_api_key()
 
