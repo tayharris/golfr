@@ -7,7 +7,7 @@
 #' @importFrom jsonlite fromJSON
 dg_schedule <- function(tour = "pga") {
 
-  api_key <- get_api_key()
+  api_key <-  dg_api_key()
 
   # Construct the API call URL
   call <- paste0("https://feeds.datagolf.com/get-schedule?", "&tour=", tour, "&key=", api_key)

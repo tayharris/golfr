@@ -6,7 +6,7 @@
 #' @importFrom jsonlite fromJSON
 dg_player_list <- function() {
 
-  api_key <- get_api_key()
+  api_key <-  dg_api_key()
 
   # Construct the API call URL
   call <- paste0("https://feeds.datagolf.com/get-player-list?", "&key=", api_key)
