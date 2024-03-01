@@ -19,6 +19,7 @@ Imports:
     httptest,
     httr,
     jsonlite,
+    purrr (>= 1.0.1),
     rlang (>= 0.4.11),
     withr
 URL: https://github.com/tayharris/golfr

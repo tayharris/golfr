@@ -2,7 +2,7 @@
 #'
 #' @param tour A character string specifying the tour name (default is "pga").
 #' @param stats A vector string of stats with (default is "sg_ott", "distance", "accuracy", "sg_app", "gir", "prox_fw", "sg_putt", "scrambling").
-#' @param round A character string specifying if single round or event average (default is "event_avg").
+#' @param round A character string specifying if single round or event average (default is "event_avg"), options are "event_avg", "1", "2", "3", "4".
 #' @param display A character string specifying how stats are displayed if value or rank (default is "value").
 #' @param file_format A character string specifying the file format (default is "json").
 #' @return A dataframe containing betting market matchups for current week tour tournament with a set market of full tournament, round, or threeball.
