@@ -1,11 +1,17 @@
-simulate_golf_tournaments <- function(df, n_simulations = 1000, n_rounds = 4) {
-  set.seed(420)  # Ensure reproducibility
+simulate_golf_tournaments_with_final_pred <- function(df, n_simulations = 1000, n_rounds = 4) {
+  set.seed(420)  # Set seed for reproducibility
+
+  # Ensure df contains 'final_pred' and 'std_dev'
+  if(!"final_pred" %in% names(df) | !"std_dev" %in% names(df)) {
+    stop("DataFrame must contain 'final_pred' and 'std_dev' columns.")
+  }
 
   simulations <- vector("list", n_simulations)
 
   for (i in 1:n_simulations) {
+    # Simulate scores using final_pred as performance metric
     simulation <- df %>%
-      mutate(simulated_total_score = map2_dbl(sg_tot, std_dev, ~sum(rnorm(n_rounds, .x, .y)))) %>%
+      mutate(simulated_total_score = map2_dbl(final_pred, std_dev, ~sum(rnorm(n_rounds, .x, .y)))) %>%
       arrange(desc(simulated_total_score)) %>%
       mutate(rank = row_number())
 
@@ -14,6 +20,7 @@ simulate_golf_tournaments <- function(df, n_simulations = 1000, n_rounds = 4) {
 
   all_simulations_df <- bind_rows(simulations, .id = "simulation_id")
 
+  # Generate summary statistics from the simulations
   summary_df <- all_simulations_df %>%
     group_by(id, dg_id, golfer) %>%
     summarise(
@@ -43,5 +50,6 @@ simulate_golf_tournaments <- function(df, n_simulations = 1000, n_rounds = 4) {
     ) %>%
     ungroup()
 
-  return(summary_df)
+  # The result is a list containing both the full simulations and the summary statistics
+  return(list(full_simulations = all_simulations_df, summary = summary_df))
 }

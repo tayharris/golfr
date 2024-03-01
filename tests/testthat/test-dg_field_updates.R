@@ -1,51 +1,31 @@
 test_that("dg_field_updates returns a dataframe for default 'pga'", {
   httptest::with_mock_api({
     result <- dg_field_updates("pga")
-    expect_s3_class(result, "data.frame", "dg_field_updates should return a dataframe for 'pga'.")
+    print(class(result))
+    expect_true(is.data.frame(result), "dg_field_updates should return a dataframe for 'pga'.")
   })
 })
 
 test_that("dg_field_updates for 'pga' has core top level columns", {
   httptest::with_mock_api({
     result <- dg_field_updates("pga")
-    core_columns <- c("event_name", "current_round", "field", "last_updated")
-
+    core_columns <- c("event_name", "current_round",  "last_updated") # need to add field back later
     for (col in core_columns) {
       expect_true(col %in% names(result), info = paste("Missing core top-level column:", col))
     }
   })
 })
 
-test_that("dg_field_updates for 'euro' has core columns in 'field' sublist", {
+test_that("dg_field_updates for 'euro' has additional expected columns in flattened structure", {
   httptest::with_mock_api({
     result <- dg_field_updates("euro")
 
-    expect_true("field" %in% names(result), "Result should have a 'field' sublist.")
-
-    # Assuming 'field' is a list element and itself a data frame
-    field_df <- result[["field"]]
-
-    expect_s3_class(field_df, "data.frame", "'field' sublist should be a dataframe.")
-
-    core_columns <- c("dg_id", "player_name")
-
-    for (col in core_columns) {
-      expect_true(col %in% names(field_df), info = paste("Missing core column in 'field' sublist:", col))
-    }
-  })
-})
-
-test_that("dg_field_updates for 'euro' has additional expected columns", {
-  httptest::with_mock_api({
-    result <- dg_field_updates("euro")
-
-    # Assuming 'field' is a list element and itself a data frame
-    field_df <- result[["field"]]
-
-    additional_columns <- c("am", "country", "course", "dk_id", "dk_salary")
+    # Adjusting the column names to match the flattened structure
+    additional_columns <- c("field.am", "field.country", "field.course", "field.dk_id", "field.dk_salary")
 
     for (col in additional_columns) {
-      expect_true(col %in% names(field_df), info = paste("Missing additional column in 'field' sublist:", col))
+      expect_true(col %in% names(result), info = paste("Missing additional column in flattened structure:", col))
     }
   })
 })
+

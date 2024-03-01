@@ -7,6 +7,7 @@
 #' @export
 #' @importFrom httr GET content
 #' @importFrom jsonlite fromJSON
+#' @importFrom dplyr relocate
 #'
 dg_player_decomp <- function(tour = "pga",odds_format ="percent", format = "json"){
 
@@ -27,7 +28,7 @@ dg_player_decomp <- function(tour = "pga",odds_format ="percent", format = "json
                        flatten = TRUE)
 
   # Converting into dataframe
-  get_df <- as.data.frame(get_json$players) %>%
+  get_df <- as.data.frame(get_json$players) |>
     relocate("dg_id","player_name","country","sample_size")
 
 }

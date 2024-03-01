@@ -16,7 +16,7 @@ dg_live_stats(
 \arguments{
 \item{stats}{A vector string of stats with (default is "sg_ott", "distance", "accuracy", "sg_app", "gir", "prox_fw", "sg_putt", "scrambling").}
 
-\item{round}{A character string specifying if single round or event average (default is "event_avg").}
+\item{round}{A character string specifying if single round or event average (default is "event_avg"), options are "event_avg", "1", "2", "3", "4".}
 
 \item{tour}{A character string specifying the tour name (default is "pga").}
 
