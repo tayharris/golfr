@@ -1,6 +1,4190 @@
 {
-    "event_name": "Cognizant Classic in The Palm Beaches",
-    "last_updated": "2024-03-01 16:31:00 UTC",
+    "event_name": "THE PLAYERS Championship",
+    "last_updated": "2024-03-13 18:35:00 UTC",
     "market": "tournament_matchups",
-    "match_list": "No tournament_matchups being offered right now."
+    "match_list": [
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.39478333333333326,
+                    "p2": 0.5606166666666667,
+                    "tie": 0.044600000000000084
+                }
+            },
+            "p1_dg_id": 12965,
+            "p1_player_name": "Fowler, Rickie",
+            "p2_dg_id": 18103,
+            "p2_player_name": "Bezuidenhout, Christiaan",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5726491321502403,
+                    "p2": 0.47619047619047616,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.4566166666666666,
+                    "p2": 0.5017666666666667,
+                    "tie": 0.041616666666666635
+                }
+            },
+            "p1_dg_id": 16841,
+            "p1_player_name": "Lee, Min Woo",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5555555555555556,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.42841666666666667,
+                    "p2": 0.5303833333333333,
+                    "tie": 0.041200000000000014
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.44682589347795865,
+                    "p2": 0.5531741065220415
+                },
+                "fanduel": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5833333333333334
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5726491321502403,
+                    "p2": 0.47619047619047616,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.5165833333333333,
+                    "p2": 0.4396833333333333,
+                    "tie": 0.0437333333333334
+                }
+            },
+            "p1_dg_id": 15575,
+            "p1_player_name": "Hoge, Tom",
+            "p2_dg_id": 21554,
+            "p2_player_name": "Poston, J.T.",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.45454545454545453,
+                    "p2": 0.5884776084269994,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.37554999999999994,
+                    "p2": 0.5823833333333334,
+                    "tie": 0.042066666666666586
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 14609,
+            "p2_player_name": "Kim, Si Woo",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.51945,
+                    "p2": 0.439,
+                    "tie": 0.04155000000000003
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5555555555555556,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.43951666666666667,
+                    "p2": 0.519,
+                    "tie": 0.041483333333333317
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.502487312195367,
+                    "p2": 0.5633199826497445
+                },
+                "betonline": {
+                    "p1": 0.4807692307692307,
+                    "p2": 0.5633199826497445
+                },
+                "caesars": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5744683295609913
+                },
+                "datagolf": {
+                    "p1": 0.4585383665733512,
+                    "p2": 0.5414616334266488
+                },
+                "unibet": {
+                    "p1": 0.5145621076463929,
+                    "p2": 0.5555555555555556
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.4834666666666666,
+                    "p2": 0.4745166666666666,
+                    "tie": 0.04201666666666681
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5046712712468902,
+                    "p2": 0.49532872875310974
+                },
+                "fanduel": {
+                    "p1": 0.523809523809524,
+                    "p2": 0.523809523809524
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.442,
+                    "p2": 0.5176666666666667,
+                    "tie": 0.04033333333333333
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 18841,
+            "p2_player_name": "Hovland, Viktor",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4605765890934352,
+                    "p2": 0.5394234109065649
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 18841,
+            "p2_player_name": "Hovland, Viktor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.38167938931297707,
+                    "p2": 0.6666666666666666,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.3012,
+                    "p2": 0.6616666666666666,
+                    "tie": 0.03713333333333335
+                }
+            },
+            "p1_dg_id": 10091,
+            "p1_player_name": "McIlroy, Rory",
+            "p2_dg_id": 18417,
+            "p2_player_name": "Scheffler, Scottie",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.38759689922480617,
+                    "p2": 0.6666666666666666
+                },
+                "betmgm": {
+                    "p1": 0.3448275862068966,
+                    "p2": 0.7142857142857143
+                },
+                "betonline": {
+                    "p1": 0.3846153846153846,
+                    "p2": 0.6598656513533845
+                },
+                "bovada": {
+                    "p1": 0.3846153846153846,
+                    "p2": 0.6774195733611528
+                },
+                "caesars": {
+                    "p1": 0.37735849056603776,
+                    "p2": 0.6774195733611528
+                },
+                "datagolf": {
+                    "p1": 0.31281589697431283,
+                    "p2": 0.6871841030256871
+                },
+                "draftkings": {
+                    "p1": 0.36363636363636365,
+                    "p2": 0.682539682106324
+                },
+                "pinnacle": {
+                    "p1": 0.3623188405797102,
+                    "p2": 0.6944444444444444
+                },
+                "unibet": {
+                    "p1": 0.3802281368821293,
+                    "p2": 0.6923098224917615
+                }
+            },
+            "p1_dg_id": 10091,
+            "p1_player_name": "McIlroy, Rory",
+            "p2_dg_id": 18417,
+            "p2_player_name": "Scheffler, Scottie",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5999988000023999,
+                    "p2": 0.4444444444444444,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.5585333333333333,
+                    "p2": 0.3983,
+                    "tie": 0.043166666666666687
+                }
+            },
+            "p1_dg_id": 14578,
+            "p1_player_name": "Henley, Russell",
+            "p2_dg_id": 17488,
+            "p2_player_name": "Im, Sungjae",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6047448279198593,
+                    "p2": 0.4504504504504504
+                },
+                "betonline": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.4608294930875576
+                },
+                "datagolf": {
+                    "p1": 0.5837310573070894,
+                    "p2": 0.41626894269291065
+                }
+            },
+            "p1_dg_id": 14578,
+            "p1_player_name": "Henley, Russell",
+            "p2_dg_id": 17488,
+            "p2_player_name": "Im, Sungjae",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5726491321502403,
+                    "p2": 0.47619047619047616,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.51645,
+                    "p2": 0.44356666666666666,
+                    "tie": 0.03998333333333337
+                }
+            },
+            "p1_dg_id": 17576,
+            "p1_player_name": "Conners, Corey",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5121951094586559
+                },
+                "datagolf": {
+                    "p1": 0.5379594104269023,
+                    "p2": 0.46204058957309774
+                }
+            },
+            "p1_dg_id": 17576,
+            "p1_player_name": "Conners, Corey",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.45738333333333336,
+                    "p2": 0.49924999999999997,
+                    "tie": 0.04336666666666672
+                }
+            },
+            "p1_dg_id": 13872,
+            "p1_player_name": "Bradley, Keegan",
+            "p2_dg_id": 14577,
+            "p2_player_name": "English, Harris",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.51715,
+                    "p2": 0.4402,
+                    "tie": 0.04265000000000002
+                }
+            },
+            "p1_dg_id": 13965,
+            "p1_player_name": "Hadwin, Adam",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.46555,
+                    "p2": 0.4910999999999999,
+                    "tie": 0.04335
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 14459,
+            "p2_player_name": "An, Byeong Hun",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.48664610881722675,
+                    "p2": 0.5133538911827732
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5307855626326964
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 14459,
+            "p2_player_name": "An, Byeong Hun",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5238097732427491,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.4991,
+                    "p2": 0.45731666666666665,
+                    "tie": 0.04358333333333342
+                }
+            },
+            "p1_dg_id": 12423,
+            "p1_player_name": "Kirk, Chris",
+            "p2_dg_id": 17365,
+            "p2_player_name": "Mitchell, Keith",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.38283333333333336,
+                    "p2": 0.5774,
+                    "tie": 0.03976666666666662
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.591715976331361
+                },
+                "datagolf": {
+                    "p1": 0.3986878189328983,
+                    "p2": 0.6013121810671017
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.48780487804878053,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.4889666666666666,
+                    "p2": 0.46930000000000005,
+                    "tie": 0.041733333333333456
+                }
+            },
+            "p1_dg_id": 17538,
+            "p1_player_name": "Homa, Max",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5121951094586559
+                },
+                "datagolf": {
+                    "p1": 0.5102615834144985,
+                    "p2": 0.4897384165855016
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5307855626326964
+                }
+            },
+            "p1_dg_id": 17538,
+            "p1_player_name": "Homa, Max",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5798311531681973,
+                    "p2": 0.45454545454545453,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.5540333333333334,
+                    "p2": 0.4041833333333333,
+                    "tie": 0.04178333333333334
+                }
+            },
+            "p1_dg_id": 13900,
+            "p1_player_name": "Lowry, Shane",
+            "p2_dg_id": 23604,
+            "p2_player_name": "Clark, Wyndham",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6296277640658842,
+                    "p2": 0.425531914893617
+                },
+                "betonline": {
+                    "p1": 0.595142447344772,
+                    "p2": 0.4504504504504504
+                },
+                "caesars": {
+                    "p1": 0.5918350437366098,
+                    "p2": 0.46511627906976744
+                },
+                "datagolf": {
+                    "p1": 0.5781921277372898,
+                    "p2": 0.4218078722627102
+                },
+                "fanduel": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 13900,
+            "p1_player_name": "Lowry, Shane",
+            "p2_dg_id": 23604,
+            "p2_player_name": "Clark, Wyndham",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bet365": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5,
+                    "tie": 0.058823529411764705
+                },
+                "datagolf": {
+                    "p1": 0.5064833333333333,
+                    "p2": 0.4507,
+                    "tie": 0.042816666666666725
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 23014,
+            "p2_player_name": "Theegala, Sahith",
+            "ties": "separate bet offered"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5850621921110213,
+                    "p2": 0.47393364928909953
+                },
+                "betonline": {
+                    "p1": 0.5815914668899977,
+                    "p2": 0.4629629629629629
+                },
+                "datagolf": {
+                    "p1": 0.5291393150040918,
+                    "p2": 0.47086068499590816
+                },
+                "fanduel": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 23014,
+            "p2_player_name": "Theegala, Sahith",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.4166666666666667,
+                    "p2": 0.6376818987616217
+                },
+                "betonline": {
+                    "p1": 0.4166666666666667,
+                    "p2": 0.628251199959792
+                },
+                "datagolf": {
+                    "p1": 0.3828846926476496,
+                    "p2": 0.6171153073523503
+                }
+            },
+            "p1_dg_id": 17780,
+            "p1_player_name": "Pendrith, Taylor",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5999988000023999,
+                    "p2": 0.45454545454545453
+                },
+                "betonline": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.4608294930875576
+                },
+                "datagolf": {
+                    "p1": 0.5386085828028271,
+                    "p2": 0.4613914171971729
+                }
+            },
+            "p1_dg_id": 18634,
+            "p1_player_name": "McNealy, Maverick",
+            "p2_dg_id": 25442,
+            "p2_player_name": "Montgomery, Taylor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5192296708603117,
+                    "p2": 0.5495501931668929
+                },
+                "betonline": {
+                    "p1": 0.5348823526265398,
+                    "p2": 0.5121953718026204
+                },
+                "datagolf": {
+                    "p1": 0.5157215047725997,
+                    "p2": 0.4842784952274004
+                }
+            },
+            "p1_dg_id": 14967,
+            "p1_player_name": "Hadley, Chesson",
+            "p2_dg_id": 22535,
+            "p2_player_name": "Norrman, Vincent",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5652176370511465,
+                    "p2": 0.5
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.5333646289728076,
+                    "p2": 0.4666353710271925
+                },
+                "pinnacle": {
+                    "p1": 0.5595970900951315,
+                    "p2": 0.49019607843137253
+                }
+            },
+            "p1_dg_id": 18554,
+            "p1_player_name": "Rai, Aaron",
+            "p2_dg_id": 24550,
+            "p2_player_name": "Ghim, Doug",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5192296708603117,
+                    "p2": 0.5495501931668929
+                },
+                "betonline": {
+                    "p1": 0.5283010893568463,
+                    "p2": 0.5192296708603117
+                },
+                "datagolf": {
+                    "p1": 0.5070637580948035,
+                    "p2": 0.4929362419051966
+                }
+            },
+            "p1_dg_id": 17543,
+            "p1_player_name": "Kim, Michael",
+            "p2_dg_id": 22050,
+            "p2_player_name": "Suh, Justin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5495501931668929,
+                    "p2": 0.5192296708603117
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.553417943107221,
+                    "p2": 0.44658205689277897
+                }
+            },
+            "p1_dg_id": 23482,
+            "p1_player_name": "Sigg, Greyson",
+            "p2_dg_id": 25213,
+            "p2_player_name": "Wu, Brandon",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5215314248760059,
+                    "p2": 0.5475101973774262
+                },
+                "betonline": {
+                    "p1": 0.49504950495049505,
+                    "p2": 0.5495501931668929
+                },
+                "datagolf": {
+                    "p1": 0.472305755647248,
+                    "p2": 0.5276942443527519
+                }
+            },
+            "p1_dg_id": 17723,
+            "p1_player_name": "Lower, Justin",
+            "p2_dg_id": 23656,
+            "p2_player_name": "Young, Carson",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5575223705851198,
+                    "p2": 0.509803521722728
+                },
+                "betonline": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.48780487804878053
+                },
+                "caesars": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.5303154337867729,
+                    "p2": 0.469684566213227
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 16841,
+            "p2_player_name": "Lee, Min Woo",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5121953718026204
+                },
+                "betonline": {
+                    "p1": 0.5305152363975894,
+                    "p2": 0.5169080627319625
+                },
+                "datagolf": {
+                    "p1": 0.482257643062451,
+                    "p2": 0.517742356937549
+                }
+            },
+            "p1_dg_id": 17365,
+            "p1_player_name": "Mitchell, Keith",
+            "p2_dg_id": 18103,
+            "p2_player_name": "Bezuidenhout, Christiaan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5,
+                    "p2": 0.5652176370511465
+                },
+                "betonline": {
+                    "p1": 0.48309178743961356,
+                    "p2": 0.5614035087719298
+                },
+                "datagolf": {
+                    "p1": 0.4595842553710512,
+                    "p2": 0.5404157446289488
+                }
+            },
+            "p1_dg_id": 10419,
+            "p1_player_name": "Noren, Alex",
+            "p2_dg_id": 13965,
+            "p2_player_name": "Hadwin, Adam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.4587155963302752,
+                    "p2": 0.5967726534899266
+                },
+                "betonline": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5689641438796528
+                },
+                "datagolf": {
+                    "p1": 0.4314585919334254,
+                    "p2": 0.5685414080665746
+                }
+            },
+            "p1_dg_id": 14181,
+            "p1_player_name": "Detry, Thomas",
+            "p2_dg_id": 19477,
+            "p2_player_name": "Schenk, Adam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5689641438796528,
+                    "p2": 0.49504950495049505
+                },
+                "betonline": {
+                    "p1": 0.5901654824012652,
+                    "p2": 0.45454545454545453
+                },
+                "caesars": {
+                    "p1": 0.5999988000023999,
+                    "p2": 0.45454545454545453
+                },
+                "datagolf": {
+                    "p1": 0.5800577431473494,
+                    "p2": 0.4199422568526506
+                }
+            },
+            "p1_dg_id": 14609,
+            "p1_player_name": "Kim, Si Woo",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                },
+                "betonline": {
+                    "p1": 0.49504950495049505,
+                    "p2": 0.5495501931668929
+                },
+                "datagolf": {
+                    "p1": 0.4651681089269237,
+                    "p2": 0.5348318910730765
+                }
+            },
+            "p1_dg_id": 12423,
+            "p1_player_name": "Kirk, Chris",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "betonline": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859
+                },
+                "datagolf": {
+                    "p1": 0.4799495674710188,
+                    "p2": 0.5200504325289812
+                }
+            },
+            "p1_dg_id": 6169,
+            "p1_player_name": "Kuchar, Matt",
+            "p2_dg_id": 11049,
+            "p2_player_name": "Simpson, Webb",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5575223705851198,
+                    "p2": 0.509803521722728
+                },
+                "betonline": {
+                    "p1": 0.5348823526265398,
+                    "p2": 0.5121953718026204
+                },
+                "datagolf": {
+                    "p1": 0.4961098637146886,
+                    "p2": 0.5038901362853115
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5884776084269994,
+                    "p2": 0.4694835680751174
+                },
+                "betonline": {
+                    "p1": 0.5633199826497445,
+                    "p2": 0.4807692307692307
+                },
+                "datagolf": {
+                    "p1": 0.5308225758555033,
+                    "p2": 0.4691774241444967
+                }
+            },
+            "p1_dg_id": 17786,
+            "p1_player_name": "Davis, Cameron",
+            "p2_dg_id": 21891,
+            "p2_player_name": "Kitayama, Kurt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6108959399855828,
+                    "p2": 0.4444444444444444
+                },
+                "betonline": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.4608294930875576
+                },
+                "datagolf": {
+                    "p1": 0.5709917829161093,
+                    "p2": 0.4290082170838908
+                }
+            },
+            "p1_dg_id": 18841,
+            "p1_player_name": "Hovland, Viktor",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.45248868778280543,
+                    "p2": 0.6015942246954429
+                },
+                "betonline": {
+                    "p1": 0.4629629629629629,
+                    "p2": 0.5815914668899977
+                },
+                "datagolf": {
+                    "p1": 0.4165526557331624,
+                    "p2": 0.5834473442668375
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "betonline": {
+                    "p1": 0.5348823526265398,
+                    "p2": 0.5121953718026204
+                },
+                "datagolf": {
+                    "p1": 0.5088177889307124,
+                    "p2": 0.4911822110692878
+                },
+                "pinnacle": {
+                    "p1": 0.5497526113249038,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 17511,
+            "p1_player_name": "Straka, Sepp",
+            "p2_dg_id": 19960,
+            "p2_player_name": "Pavon, Matthieu",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.49751243781094534,
+                    "p2": 0.5670991743036022
+                },
+                "betonline": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859
+                },
+                "datagolf": {
+                    "p1": 0.4951125334817546,
+                    "p2": 0.5048874665182455
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 14577,
+            "p2_player_name": "English, Harris",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6168574812475326,
+                    "p2": 0.4385964912280702
+                },
+                "betonline": {
+                    "p1": 0.622641744393111,
+                    "p2": 0.42194092827004215
+                },
+                "datagolf": {
+                    "p1": 0.6590980487975148,
+                    "p2": 0.3409019512024853
+                }
+            },
+            "p1_dg_id": 4818,
+            "p1_player_name": "Stricker, Steve",
+            "p2_dg_id": 28270,
+            "p2_player_name": "Dunlap, Nick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6197706848466068,
+                    "p2": 0.4347826086956522
+                },
+                "betonline": {
+                    "p1": 0.6108959399855828,
+                    "p2": 0.4347826086956522
+                },
+                "datagolf": {
+                    "p1": 0.5622451468999408,
+                    "p2": 0.4377548531000593
+                }
+            },
+            "p1_dg_id": 12808,
+            "p1_player_name": "Grillo, Emiliano",
+            "p2_dg_id": 17550,
+            "p2_player_name": "Van Rooyen, Erik",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5689641438796528,
+                    "p2": 0.49504950495049505
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.48196331462344155,
+                    "p2": 0.5180366853765584
+                },
+                "pinnacle": {
+                    "p1": 0.547645125958379,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 6093,
+            "p1_player_name": "Rose, Justin",
+            "p2_dg_id": 23602,
+            "p2_player_name": "Hojgaard, Nicolai",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5475101973774262,
+                    "p2": 0.5215314248760059
+                },
+                "betonline": {
+                    "p1": 0.5495501931668929,
+                    "p2": 0.49504950495049505
+                },
+                "datagolf": {
+                    "p1": 0.5392778726518663,
+                    "p2": 0.46072212734813367
+                }
+            },
+            "p1_dg_id": 12425,
+            "p1_player_name": "Todd, Brendon",
+            "p2_dg_id": 13126,
+            "p2_player_name": "Taylor, Nick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.5066797230188151,
+                    "p2": 0.49332027698118497
+                }
+            },
+            "p1_dg_id": 13997,
+            "p1_player_name": "Svensson, Adam",
+            "p2_dg_id": 21944,
+            "p2_player_name": "Moore, Taylor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.526066600031564,
+                    "p2": 0.5433778540921786
+                },
+                "betonline": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.5086639506216013,
+                    "p2": 0.4913360493783987
+                }
+            },
+            "p1_dg_id": 11276,
+            "p1_player_name": "Horschel, Billy",
+            "p2_dg_id": 12965,
+            "p2_player_name": "Fowler, Rickie",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5652176370511465,
+                    "p2": 0.5
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "caesars": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.47619047619047616
+                },
+                "datagolf": {
+                    "p1": 0.5239196189549074,
+                    "p2": 0.4760803810450927
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 13872,
+            "p2_player_name": "Bradley, Keegan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5708153526497248,
+                    "p2": 0.4926108374384237
+                },
+                "betonline": {
+                    "p1": 0.5726491321502403,
+                    "p2": 0.4716981132075471
+                },
+                "datagolf": {
+                    "p1": 0.5840935754434502,
+                    "p2": 0.4159064245565497
+                }
+            },
+            "p1_dg_id": 7960,
+            "p1_player_name": "List, Luke",
+            "p2_dg_id": 11889,
+            "p2_player_name": "Fox, Ryan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.49019607843137253,
+                    "p2": 0.5726491321502403
+                },
+                "betonline": {
+                    "p1": 0.4854368932038835,
+                    "p2": 0.5594718585655141
+                },
+                "datagolf": {
+                    "p1": 0.4546487639427952,
+                    "p2": 0.5453512360572048
+                }
+            },
+            "p1_dg_id": 13497,
+            "p1_player_name": "Lee, Kyounghoon",
+            "p2_dg_id": 26096,
+            "p2_player_name": "Bhatia, Akshay",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5121953718026204,
+                    "p2": 0.5555555555555556
+                },
+                "betonline": {
+                    "p1": 0.5121953718026204,
+                    "p2": 0.5348823526265398
+                },
+                "datagolf": {
+                    "p1": 0.5123017469005194,
+                    "p2": 0.4876982530994807
+                }
+            },
+            "p1_dg_id": 15004,
+            "p1_player_name": "Kim, Chan",
+            "p2_dg_id": 15475,
+            "p2_player_name": "Pan, C.T.",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5049510449961876,
+                    "p2": 0.5614035087719298
+                },
+                "betonline": {
+                    "p1": 0.4854368932038835,
+                    "p2": 0.5594718585655141
+                },
+                "datagolf": {
+                    "p1": 0.4694223542777244,
+                    "p2": 0.5305776457222756
+                },
+                "pinnacle": {
+                    "p1": 0.5122950819672131,
+                    "p2": 0.5370569280343717
+                }
+            },
+            "p1_dg_id": 17881,
+            "p1_player_name": "Yu, Kevin",
+            "p2_dg_id": 22760,
+            "p2_player_name": "Hisatsune, Ryo",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5370367386832934,
+                    "p2": 0.5327111267373041
+                },
+                "betonline": {
+                    "p1": 0.5121953718026204,
+                    "p2": 0.5348823526265398
+                },
+                "datagolf": {
+                    "p1": 0.4874493501026154,
+                    "p2": 0.5125506498973846
+                }
+            },
+            "p1_dg_id": 23323,
+            "p1_player_name": "Macintyre, Robert",
+            "p2_dg_id": 23816,
+            "p2_player_name": "Valimaki, Sami",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.4444444444444444,
+                    "p2": 0.6108959399855828
+                },
+                "betonline": {
+                    "p1": 0.45454545454545453,
+                    "p2": 0.5901654824012652
+                },
+                "datagolf": {
+                    "p1": 0.4541545532092684,
+                    "p2": 0.5458454467907317
+                },
+                "fanduel": {
+                    "p1": 0.5,
+                    "p2": 0.5555555555555556
+                }
+            },
+            "p1_dg_id": 14459,
+            "p1_player_name": "An, Byeong Hun",
+            "p2_dg_id": 17576,
+            "p2_player_name": "Conners, Corey",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.526066600031564,
+                    "p2": 0.5433778540921786
+                },
+                "betonline": {
+                    "p1": 0.5121953718026204,
+                    "p2": 0.5348823526265398
+                },
+                "datagolf": {
+                    "p1": 0.4990413107896114,
+                    "p2": 0.5009586892103887
+                }
+            },
+            "p1_dg_id": 15470,
+            "p1_player_name": "Hossler, Beau",
+            "p2_dg_id": 16394,
+            "p2_player_name": "Jaeger, Stephan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.3952569169960475,
+                    "p2": 0.6598656513533845
+                },
+                "betonline": {
+                    "p1": 0.4065040650406504,
+                    "p2": 0.6389898847901238
+                },
+                "datagolf": {
+                    "p1": 0.3852980663609576,
+                    "p2": 0.6147019336390424
+                }
+            },
+            "p1_dg_id": 19396,
+            "p1_player_name": "Knapp, Jake",
+            "p2_dg_id": 19870,
+            "p2_player_name": "McCarthy, Denny",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5391707553782282,
+                    "p2": 0.5305152363975894
+                },
+                "betonline": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.53205971615529,
+                    "p2": 0.4679402838447099
+                }
+            },
+            "p1_dg_id": 16715,
+            "p1_player_name": "Ryder, Sam",
+            "p2_dg_id": 18474,
+            "p2_player_name": "Smalley, Alex",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5884776084269994,
+                    "p2": 0.4694835680751174
+                },
+                "betonline": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.4608294930875576
+                },
+                "datagolf": {
+                    "p1": 0.5761686911710574,
+                    "p2": 0.4238313088289426
+                }
+            },
+            "p1_dg_id": 16333,
+            "p1_player_name": "Hubbard, Mark",
+            "p2_dg_id": 20706,
+            "p2_player_name": "Wallace, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.4065040650406504,
+                    "p2": 0.6478865939305984
+                },
+                "betonline": {
+                    "p1": 0.4132231404958678,
+                    "p2": 0.6323510813203491
+                },
+                "datagolf": {
+                    "p1": 0.4010933174475241,
+                    "p2": 0.5989066825524757
+                }
+            },
+            "p1_dg_id": 5768,
+            "p1_player_name": "Hoffman, Charley",
+            "p2_dg_id": 10104,
+            "p2_player_name": "Power, Seamus",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.526066600031564,
+                    "p2": 0.5433778540921786
+                },
+                "betonline": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5555555555555556
+                },
+                "datagolf": {
+                    "p1": 0.466198114192269,
+                    "p2": 0.5338018858077311
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 17538,
+            "p2_player_name": "Homa, Max",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5348823526265398,
+                    "p2": 0.5348823526265398
+                },
+                "betonline": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859
+                },
+                "datagolf": {
+                    "p1": 0.48256532562714344,
+                    "p2": 0.5174346743728566
+                }
+            },
+            "p1_dg_id": 17646,
+            "p1_player_name": "Fitzpatrick, Matt",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5370367386832934,
+                    "p2": 0.5327111267373041
+                },
+                "betonline": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.5224552198613597,
+                    "p2": 0.47754478013864043
+                },
+                "unibet": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5433778540921786,
+                    "p2": 0.526066600031564
+                },
+                "betonline": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.49838858596240626,
+                    "p2": 0.5016114140375939
+                }
+            },
+            "p1_dg_id": 21554,
+            "p1_player_name": "Poston, J.T.",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.6062994512989965,
+                    "p2": 0.4484304932735426
+                },
+                "betonline": {
+                    "p1": 0.6108959399855828,
+                    "p2": 0.4347826086956522
+                },
+                "datagolf": {
+                    "p1": 0.6096151503019964,
+                    "p2": 0.3903848496980035
+                }
+            },
+            "p1_dg_id": 14704,
+            "p1_player_name": "Putnam, Andrew",
+            "p2_dg_id": 27364,
+            "p2_player_name": "Thompson, Davis",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.5762725538670769,
+                    "p2": 0.4854368932038835
+                },
+                "betonline": {
+                    "p1": 0.5633199826497445,
+                    "p2": 0.4807692307692307
+                },
+                "datagolf": {
+                    "p1": 0.5573813615797412,
+                    "p2": 0.44261863842025895
+                }
+            },
+            "p1_dg_id": 15556,
+            "p1_player_name": "Hughes, Mackenzie",
+            "p2_dg_id": 24342,
+            "p2_player_name": "Higgo, Garrick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betcris": {
+                    "p1": 0.502487312195367,
+                    "p2": 0.5633199826497445
+                },
+                "betonline": {
+                    "p1": 0.5,
+                    "p2": 0.5454555371918859
+                },
+                "datagolf": {
+                    "p1": 0.4808971411523139,
+                    "p2": 0.519102858847686
+                }
+            },
+            "p1_dg_id": 23475,
+            "p1_player_name": "Novak, Andrew",
+            "p2_dg_id": 24968,
+            "p2_player_name": "Griffin, Ben",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5089722675367047,
+                    "p2": 0.49102773246329523
+                },
+                "pinnacle": {
+                    "p1": 0.5350454788657036,
+                    "p2": 0.5122950819672131
+                }
+            },
+            "p1_dg_id": 14181,
+            "p1_player_name": "Detry, Thomas",
+            "p2_dg_id": 25442,
+            "p2_player_name": "Montgomery, Taylor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5031600940193262,
+                    "p2": 0.49683990598067385
+                },
+                "pinnacle": {
+                    "p1": 0.5350454788657036,
+                    "p2": 0.5122950819672131
+                }
+            },
+            "p1_dg_id": 10419,
+            "p1_player_name": "Noren, Alex",
+            "p2_dg_id": 18103,
+            "p2_player_name": "Bezuidenhout, Christiaan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4704333420524894,
+                    "p2": 0.5295666579475107
+                },
+                "pinnacle": {
+                    "p1": 0.5025125628140703,
+                    "p2": 0.5455537370430987
+                }
+            },
+            "p1_dg_id": 17550,
+            "p1_player_name": "Van Rooyen, Erik",
+            "p2_dg_id": 18103,
+            "p2_player_name": "Bezuidenhout, Christiaan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4745990003309009,
+                    "p2": 0.5254009996690991
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                },
+                "pinnacle": {
+                    "p1": 0.5216484089723527,
+                    "p2": 0.5263157894736842
+                },
+                "unibet": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                }
+            },
+            "p1_dg_id": 16841,
+            "p1_player_name": "Lee, Min Woo",
+            "p2_dg_id": 23014,
+            "p2_player_name": "Theegala, Sahith",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4561663155328818,
+                    "p2": 0.5438336844671182
+                },
+                "pinnacle": {
+                    "p1": 0.5194805194805194,
+                    "p2": 0.5285412262156448
+                }
+            },
+            "p1_dg_id": 16841,
+            "p1_player_name": "Lee, Min Woo",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5195298877031457,
+                    "p2": 0.4804701122968543
+                },
+                "pinnacle": {
+                    "p1": 0.5216484089723527,
+                    "p2": 0.5263157894736842
+                }
+            },
+            "p1_dg_id": 10419,
+            "p1_player_name": "Noren, Alex",
+            "p2_dg_id": 13126,
+            "p2_player_name": "Taylor, Nick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4915716668983734,
+                    "p2": 0.5084283331016266
+                },
+                "pinnacle": {
+                    "p1": 0.5076142131979695,
+                    "p2": 0.5414185165132648
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5100753246299307,
+                    "p2": 0.48992467537006934
+                },
+                "pinnacle": {
+                    "p1": 0.514668039114771,
+                    "p2": 0.5327650506126798
+                }
+            },
+            "p1_dg_id": 23482,
+            "p1_player_name": "Sigg, Greyson",
+            "p2_dg_id": 25157,
+            "p2_player_name": "Hodges, Lee",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5102225312934631,
+                    "p2": 0.4897774687065369
+                },
+                "draftkings": {
+                    "p1": 0.5652173910586011,
+                    "p2": 0.48780487804878053
+                },
+                "pinnacle": {
+                    "p1": 0.5711022272986865,
+                    "p2": 0.47846889952153115
+                }
+            },
+            "p1_dg_id": 14578,
+            "p1_player_name": "Henley, Russell",
+            "p2_dg_id": 14609,
+            "p2_player_name": "Kim, Si Woo",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.47175229741019215,
+                    "p2": 0.5282477025898079
+                },
+                "pinnacle": {
+                    "p1": 0.4854368932038835,
+                    "p2": 0.5633802816901409
+                }
+            },
+            "p1_dg_id": 14577,
+            "p1_player_name": "English, Harris",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betmgm": {
+                    "p1": 0.5405405405405405,
+                    "p2": 0.5128205128205129
+                },
+                "datagolf": {
+                    "p1": 0.5423304347826087,
+                    "p2": 0.45766956521739127
+                },
+                "pinnacle": {
+                    "p1": 0.5414185165132648,
+                    "p2": 0.5076142131979695
+                }
+            },
+            "p1_dg_id": 14609,
+            "p1_player_name": "Kim, Si Woo",
+            "p2_dg_id": 17576,
+            "p2_player_name": "Conners, Corey",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5219645435724352,
+                    "p2": 0.47803545642756484
+                },
+                "pinnacle": {
+                    "p1": 0.514668039114771,
+                    "p2": 0.5327650506126798
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 23604,
+            "p2_player_name": "Clark, Wyndham",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4828726589152685,
+                    "p2": 0.5171273410847316
+                },
+                "pinnacle": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5747126436781609
+                }
+            },
+            "p1_dg_id": 12425,
+            "p1_player_name": "Todd, Brendon",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4969760531375633,
+                    "p2": 0.5030239468624367
+                },
+                "pinnacle": {
+                    "p1": 0.514668039114771,
+                    "p2": 0.5327650506126798
+                }
+            },
+            "p1_dg_id": 11049,
+            "p1_player_name": "Simpson, Webb",
+            "p2_dg_id": 19477,
+            "p2_player_name": "Schenk, Adam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5238094988662143,
+                    "p2": 0.5454546446281172
+                },
+                "datagolf": {
+                    "p1": 0.5040704146952407,
+                    "p2": 0.49592958530475933
+                },
+                "pinnacle": {
+                    "p1": 0.5370569280343717,
+                    "p2": 0.5122950819672131
+                }
+            },
+            "p1_dg_id": 13900,
+            "p1_player_name": "Lowry, Shane",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5161611051998116,
+                    "p2": 0.4838388948001884
+                },
+                "pinnacle": {
+                    "p1": 0.5025125628140703,
+                    "p2": 0.547645125958379
+                }
+            },
+            "p1_dg_id": 21891,
+            "p1_player_name": "Kitayama, Kurt",
+            "p2_dg_id": 27364,
+            "p2_player_name": "Thompson, Davis",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5302070645554202,
+                    "p2": 0.4697929354445798
+                },
+                "pinnacle": {
+                    "p1": 0.5327650506126798,
+                    "p2": 0.514668039114771
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 13562,
+            "p2_player_name": "Matsuyama, Hideki",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5149174538559226,
+                    "p2": 0.4850825461440774
+                },
+                "pinnacle": {
+                    "p1": 0.5307855626326964,
+                    "p2": 0.5170630816959669
+                }
+            },
+            "p1_dg_id": 19483,
+            "p1_player_name": "Burns, Sam",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4503678708712365,
+                    "p2": 0.5496321291287635
+                },
+                "pinnacle": {
+                    "p1": 0.49019607843137253,
+                    "p2": 0.5595970900951315
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 14578,
+            "p2_player_name": "Henley, Russell",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4909868409616354,
+                    "p2": 0.5090131590383646
+                },
+                "pinnacle": {
+                    "p1": 0.5216484089723527,
+                    "p2": 0.5263157894736842
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 13900,
+            "p2_player_name": "Lowry, Shane",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4940753353255959,
+                    "p2": 0.505924664674404
+                },
+                "pinnacle": {
+                    "p1": 0.5327650506126798,
+                    "p2": 0.514668039114771
+                }
+            },
+            "p1_dg_id": 19428,
+            "p1_player_name": "Zalatoris, Will",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5225167289475972,
+                    "p2": 0.4774832710524029
+                },
+                "pinnacle": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.4926108374384237
+                }
+            },
+            "p1_dg_id": 19895,
+            "p1_player_name": "Schauffele, Xander",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5,
+                    "p2": 0.5652176370511465
+                },
+                "datagolf": {
+                    "p1": 0.4610025193293373,
+                    "p2": 0.5389974806706629
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5307855626326964
+                }
+            },
+            "p1_dg_id": 18841,
+            "p1_player_name": "Hovland, Viktor",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4833205654989902,
+                    "p2": 0.5166794345010097
+                },
+                "pinnacle": {
+                    "p1": 0.5327650506126798,
+                    "p2": 0.5170630816959669
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 18841,
+            "p1_player_name": "Hovland, Viktor",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4861512230766555,
+                    "p2": 0.5138487769233446
+                },
+                "pinnacle": {
+                    "p1": 0.4926108374384237,
+                    "p2": 0.5577244841048522
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 17538,
+            "p2_player_name": "Homa, Max",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49540997287711236,
+                    "p2": 0.5045900271228876
+                },
+                "pinnacle": {
+                    "p1": 0.49751243781094534,
+                    "p2": 0.5497526113249038
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49877487183943,
+                    "p2": 0.5012251281605701
+                },
+                "fanduel": {
+                    "p1": 0.5,
+                    "p2": 0.5454545454545455
+                },
+                "pinnacle": {
+                    "p1": 0.5122950819672131,
+                    "p2": 0.5350454788657036
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 18841,
+            "p2_player_name": "Hovland, Viktor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5437058680301924,
+                    "p2": 0.45629413196980767
+                },
+                "pinnacle": {
+                    "p1": 0.6093845216331505,
+                    "p2": 0.4424778761061947
+                }
+            },
+            "p1_dg_id": 10091,
+            "p1_player_name": "McIlroy, Rory",
+            "p2_dg_id": 14139,
+            "p2_player_name": "Thomas, Justin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5356308614858976,
+                    "p2": 0.46436913851410244
+                },
+                "pinnacle": {
+                    "p1": 0.5350454788657036,
+                    "p2": 0.514668039114771
+                }
+            },
+            "p1_dg_id": 17511,
+            "p1_player_name": "Straka, Sepp",
+            "p2_dg_id": 26096,
+            "p2_player_name": "Bhatia, Akshay",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.6876256847652729,
+                    "p2": 0.31237431523472714
+                },
+                "pinnacle": {
+                    "p1": 0.7336757153338224,
+                    "p2": 0.3246753246753247
+                }
+            },
+            "p1_dg_id": 18417,
+            "p1_player_name": "Scheffler, Scottie",
+            "p2_dg_id": 18841,
+            "p2_player_name": "Hovland, Viktor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.53475935828877,
+                    "p2": 0.53475935828877
+                },
+                "datagolf": {
+                    "p1": 0.46003678767265915,
+                    "p2": 0.5399632123273409
+                },
+                "pinnacle": {
+                    "p1": 0.514668039114771,
+                    "p2": 0.5327650506126798
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 15466,
+            "p2_player_name": "Cantlay, Patrick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4851151144188634,
+                    "p2": 0.5148848855811365
+                },
+                "pinnacle": {
+                    "p1": 0.49019607843137253,
+                    "p2": 0.5595970900951315
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49521888800027813,
+                    "p2": 0.5047811119997219
+                },
+                "pinnacle": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5614823133071308
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4841210519911698,
+                    "p2": 0.5158789480088303
+                },
+                "pinnacle": {
+                    "p1": 0.5327650506126798,
+                    "p2": 0.514668039114771
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.47558149664604926,
+                    "p2": 0.5244185033539507
+                },
+                "pinnacle": {
+                    "p1": 0.5238344683080146,
+                    "p2": 0.5238344683080146
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 12808,
+            "p2_player_name": "Grillo, Emiliano",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5121061996301852,
+                    "p2": 0.4878938003698147
+                },
+                "pinnacle": {
+                    "p1": 0.547645125958379,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5337770557098684,
+                    "p2": 0.46622294429013167
+                },
+                "pinnacle": {
+                    "p1": 0.5434782608695652,
+                    "p2": 0.5050505050505051
+                }
+            },
+            "p1_dg_id": 16333,
+            "p1_player_name": "Hubbard, Mark",
+            "p2_dg_id": 21944,
+            "p2_player_name": "Moore, Taylor",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49177276838516654,
+                    "p2": 0.5082272316148334
+                },
+                "fanduel": {
+                    "p1": 0.5121951219512195,
+                    "p2": 0.5348837209302325
+                },
+                "pinnacle": {
+                    "p1": 0.514668039114771,
+                    "p2": 0.5350454788657036
+                },
+                "unibet": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                }
+            },
+            "p1_dg_id": 12808,
+            "p1_player_name": "Grillo, Emiliano",
+            "p2_dg_id": 13965,
+            "p2_player_name": "Hadwin, Adam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4892538878210729,
+                    "p2": 0.5107461121789272
+                },
+                "pinnacle": {
+                    "p1": 0.547645125958379,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 6093,
+            "p1_player_name": "Rose, Justin",
+            "p2_dg_id": 11276,
+            "p2_player_name": "Horschel, Billy",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4945188794153472,
+                    "p2": 0.5054811205846529
+                },
+                "pinnacle": {
+                    "p1": 0.49751243781094534,
+                    "p2": 0.5515719801434087
+                }
+            },
+            "p1_dg_id": 14459,
+            "p1_player_name": "An, Byeong Hun",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.500060980921683,
+                    "p2": 0.49993901907831695
+                },
+                "pinnacle": {
+                    "p1": 0.5414185165132648,
+                    "p2": 0.5076142131979695
+                }
+            },
+            "p1_dg_id": 13126,
+            "p1_player_name": "Taylor, Nick",
+            "p2_dg_id": 16394,
+            "p2_player_name": "Jaeger, Stephan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5103358046227651,
+                    "p2": 0.48966419537723516
+                },
+                "pinnacle": {
+                    "p1": 0.5577244841048522,
+                    "p2": 0.4926108374384237
+                }
+            },
+            "p1_dg_id": 15470,
+            "p1_player_name": "Hossler, Beau",
+            "p2_dg_id": 17550,
+            "p2_player_name": "Van Rooyen, Erik",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5121953718026204
+                },
+                "datagolf": {
+                    "p1": 0.48956396308718997,
+                    "p2": 0.51043603691281
+                },
+                "pinnacle": {
+                    "p1": 0.5050505050505051,
+                    "p2": 0.5434782608695652
+                }
+            },
+            "p1_dg_id": 14459,
+            "p1_player_name": "An, Byeong Hun",
+            "p2_dg_id": 17488,
+            "p2_player_name": "Im, Sungjae",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5246506447627171,
+                    "p2": 0.4753493552372832
+                },
+                "pinnacle": {
+                    "p1": 0.5370569280343717,
+                    "p2": 0.5122950819672131
+                }
+            },
+            "p1_dg_id": 17488,
+            "p1_player_name": "Im, Sungjae",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4638683270922233,
+                    "p2": 0.5361316729077767
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5307855626326964
+                }
+            },
+            "p1_dg_id": 11276,
+            "p1_player_name": "Horschel, Billy",
+            "p2_dg_id": 19960,
+            "p2_player_name": "Pavon, Matthieu",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49025792959219244,
+                    "p2": 0.5097420704078076
+                },
+                "pinnacle": {
+                    "p1": 0.5238344683080146,
+                    "p2": 0.5238344683080146
+                }
+            },
+            "p1_dg_id": 7399,
+            "p1_player_name": "Glover, Lucas",
+            "p2_dg_id": 14704,
+            "p2_player_name": "Putnam, Andrew",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5234859364601212,
+                    "p2": 0.47651406353987885
+                },
+                "pinnacle": {
+                    "p1": 0.5497526113249038,
+                    "p2": 0.49751243781094534
+                }
+            },
+            "p1_dg_id": 13497,
+            "p1_player_name": "Lee, Kyounghoon",
+            "p2_dg_id": 23475,
+            "p2_player_name": "Novak, Andrew",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4591110019646366,
+                    "p2": 0.5408889980353635
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5327650506126798
+                }
+            },
+            "p1_dg_id": 11889,
+            "p1_player_name": "Fox, Ryan",
+            "p2_dg_id": 19396,
+            "p2_player_name": "Knapp, Jake",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.529408688375985,
+                    "p2": 0.470591311624015
+                },
+                "pinnacle": {
+                    "p1": 0.5497526113249038,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 13965,
+            "p1_player_name": "Hadwin, Adam",
+            "p2_dg_id": 14577,
+            "p2_player_name": "English, Harris",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.48888075569033435,
+                    "p2": 0.5111192443096657
+                },
+                "pinnacle": {
+                    "p1": 0.5633802816901409,
+                    "p2": 0.4854368932038835
+                }
+            },
+            "p1_dg_id": 13872,
+            "p1_player_name": "Bradley, Keegan",
+            "p2_dg_id": 21554,
+            "p2_player_name": "Poston, J.T.",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4595325781509085,
+                    "p2": 0.5404674218490916
+                },
+                "pinnacle": {
+                    "p1": 0.5,
+                    "p2": 0.5497526113249038
+                }
+            },
+            "p1_dg_id": 13997,
+            "p1_player_name": "Svensson, Adam",
+            "p2_dg_id": 16283,
+            "p2_player_name": "Rodgers, Patrick",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5491469781898825,
+                    "p2": 0.4508530218101176
+                },
+                "pinnacle": {
+                    "p1": 0.5711022272986865,
+                    "p2": 0.47846889952153115
+                }
+            },
+            "p1_dg_id": 15470,
+            "p1_player_name": "Hossler, Beau",
+            "p2_dg_id": 26096,
+            "p2_player_name": "Bhatia, Akshay",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5122414484116612,
+                    "p2": 0.4877585515883389
+                },
+                "pinnacle": {
+                    "p1": 0.5455537370430987,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 19870,
+            "p1_player_name": "McCarthy, Denny",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4982131339016439,
+                    "p2": 0.5017868660983561
+                },
+                "pinnacle": {
+                    "p1": 0.5327650506126798,
+                    "p2": 0.514668039114771
+                }
+            },
+            "p1_dg_id": 16394,
+            "p1_player_name": "Jaeger, Stephan",
+            "p2_dg_id": 19870,
+            "p2_player_name": "McCarthy, Denny",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4812536050759469,
+                    "p2": 0.5187463949240531
+                },
+                "pinnacle": {
+                    "p1": 0.547645125958379,
+                    "p2": 0.5
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 12965,
+            "p1_player_name": "Fowler, Rickie",
+            "p2_dg_id": 23602,
+            "p2_player_name": "Hojgaard, Nicolai",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5322802796520041,
+                    "p2": 0.4677197203479959
+                },
+                "pinnacle": {
+                    "p1": 0.547645125958379,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 17365,
+            "p1_player_name": "Mitchell, Keith",
+            "p2_dg_id": 17786,
+            "p2_player_name": "Davis, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.46635885058677445,
+                    "p2": 0.5336411494132256
+                },
+                "pinnacle": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5747126436781609
+                }
+            },
+            "p1_dg_id": 7960,
+            "p1_player_name": "List, Luke",
+            "p2_dg_id": 17786,
+            "p2_player_name": "Davis, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.48090777469604196,
+                    "p2": 0.5190922253039579
+                },
+                "pinnacle": {
+                    "p1": 0.5414185165132648,
+                    "p2": 0.5076142131979695
+                }
+            },
+            "p1_dg_id": 17365,
+            "p1_player_name": "Mitchell, Keith",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5020948257803226,
+                    "p2": 0.49790517421967745
+                },
+                "pinnacle": {
+                    "p1": 0.5170630816959669,
+                    "p2": 0.5307855626326964
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5127380786876129,
+                    "p2": 0.487261921312387
+                },
+                "pinnacle": {
+                    "p1": 0.580046403712297,
+                    "p2": 0.4694835680751174
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 17538,
+            "p2_player_name": "Homa, Max",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.46477254922442157,
+                    "p2": 0.5352274507755784
+                },
+                "pinnacle": {
+                    "p1": 0.5076142131979695,
+                    "p2": 0.5414185165132648
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 13900,
+            "p2_player_name": "Lowry, Shane",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5017939338782225,
+                    "p2": 0.4982060661217774
+                },
+                "pinnacle": {
+                    "p1": 0.4716981132075471,
+                    "p2": 0.578368999421631
+                }
+            },
+            "p1_dg_id": 7960,
+            "p1_player_name": "List, Luke",
+            "p2_dg_id": 12965,
+            "p2_player_name": "Fowler, Rickie",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4733780370983193,
+                    "p2": 0.5266219629016807
+                },
+                "pinnacle": {
+                    "p1": 0.4926108374384237,
+                    "p2": 0.5577244841048522
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 17576,
+            "p2_player_name": "Conners, Corey",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5196691336525904,
+                    "p2": 0.4803308663474097
+                },
+                "pinnacle": {
+                    "p1": 0.5050505050505051,
+                    "p2": 0.5434782608695652
+                }
+            },
+            "p1_dg_id": 23014,
+            "p1_player_name": "Theegala, Sahith",
+            "p2_dg_id": 23604,
+            "p2_player_name": "Clark, Wyndham",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5179323792611163,
+                    "p2": 0.48206762073888376
+                },
+                "pinnacle": {
+                    "p1": 0.5455537370430987,
+                    "p2": 0.5025125628140703
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4804168856191979,
+                    "p2": 0.5195831143808023
+                },
+                "pinnacle": {
+                    "p1": 0.5194805194805194,
+                    "p2": 0.5285412262156448
+                }
+            },
+            "p1_dg_id": 15556,
+            "p1_player_name": "Hughes, Mackenzie",
+            "p2_dg_id": 24968,
+            "p2_player_name": "Griffin, Ben",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5424398565609442,
+                    "p2": 0.4575601434390558
+                },
+                "pinnacle": {
+                    "p1": 0.5238344683080146,
+                    "p2": 0.5238344683080146
+                }
+            },
+            "p1_dg_id": 14704,
+            "p1_player_name": "Putnam, Andrew",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.503700600474794,
+                    "p2": 0.4962993995252061
+                },
+                "pinnacle": {
+                    "p1": 0.5434782608695652,
+                    "p2": 0.5050505050505051
+                }
+            },
+            "p1_dg_id": 12423,
+            "p1_player_name": "Kirk, Chris",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.2755511715640467,
+                    "p2": 0.7244488284359533
+                },
+                "fanduel": {
+                    "p1": 0.3225806451612903,
+                    "p2": 0.7368421052631579
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 18417,
+            "p2_player_name": "Scheffler, Scottie",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5658909343522056,
+                    "p2": 0.4341090656477944
+                },
+                "fanduel": {
+                    "p1": 0.6,
+                    "p2": 0.45454545454545453
+                }
+            },
+            "p1_dg_id": 14609,
+            "p1_player_name": "Kim, Si Woo",
+            "p2_dg_id": 18554,
+            "p2_player_name": "Rai, Aaron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5304079390271552,
+                    "p2": 0.4695920609728447
+                },
+                "fanduel": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 19960,
+            "p1_player_name": "Pavon, Matthieu",
+            "p2_dg_id": 23602,
+            "p2_player_name": "Hojgaard, Nicolai",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4389967185645466,
+                    "p2": 0.5610032814354534
+                },
+                "fanduel": {
+                    "p1": 0.523809523809524,
+                    "p2": 0.5348837209302325
+                }
+            },
+            "p1_dg_id": 12965,
+            "p1_player_name": "Fowler, Rickie",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5165423232464091,
+                    "p2": 0.48345767675359097
+                },
+                "fanduel": {
+                    "p1": 0.5454545454545455,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 13872,
+            "p2_player_name": "Bradley, Keegan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4852050285394124,
+                    "p2": 0.5147949714605876
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.523809523809524
+                }
+            },
+            "p1_dg_id": 11889,
+            "p1_player_name": "Fox, Ryan",
+            "p2_dg_id": 14181,
+            "p2_player_name": "Detry, Thomas",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4855246655518394,
+                    "p2": 0.5144753344481605
+                },
+                "fanduel": {
+                    "p1": 0.5121951219512195,
+                    "p2": 0.5454545454545455
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5538668014571314,
+                    "p2": 0.44613319854286865
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.5121951219512195
+                }
+            },
+            "p1_dg_id": 12423,
+            "p1_player_name": "Kirk, Chris",
+            "p2_dg_id": 17786,
+            "p2_player_name": "Davis, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.492387300473601,
+                    "p2": 0.5076126995263989
+                },
+                "fanduel": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.48780487804878053
+                }
+            },
+            "p1_dg_id": 6169,
+            "p1_player_name": "Kuchar, Matt",
+            "p2_dg_id": 9586,
+            "p2_player_name": "Laird, Martin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.26454551728897785,
+                    "p2": 0.7354544827110222
+                },
+                "fanduel": {
+                    "p1": 0.3225806451612903,
+                    "p2": 0.7368421052631579
+                }
+            },
+            "p1_dg_id": 17538,
+            "p1_player_name": "Homa, Max",
+            "p2_dg_id": 18417,
+            "p2_player_name": "Scheffler, Scottie",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4694783768604325,
+                    "p2": 0.5305216231395675
+                },
+                "fanduel": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.48780487804878053
+                }
+            },
+            "p1_dg_id": 7655,
+            "p1_player_name": "Molinari, Francesco",
+            "p2_dg_id": 22833,
+            "p2_player_name": "Echavarria, Nicolas",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4575632232054034,
+                    "p2": 0.5424367767945966
+                },
+                "fanduel": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5833333333333334
+                }
+            },
+            "p1_dg_id": 16283,
+            "p1_player_name": "Rodgers, Patrick",
+            "p2_dg_id": 16394,
+            "p2_player_name": "Jaeger, Stephan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5306211266624887,
+                    "p2": 0.46937887333751127
+                },
+                "fanduel": {
+                    "p1": 0.6,
+                    "p2": 0.45454545454545453
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5127807765975971,
+                    "p2": 0.487219223402403
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.5121951219512195
+                }
+            },
+            "p1_dg_id": 13126,
+            "p1_player_name": "Taylor, Nick",
+            "p2_dg_id": 17550,
+            "p2_player_name": "Van Rooyen, Erik",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4595053473595771,
+                    "p2": 0.540494652640423
+                },
+                "fanduel": {
+                    "p1": 0.46511627906976744,
+                    "p2": 0.6
+                }
+            },
+            "p1_dg_id": 21944,
+            "p1_player_name": "Moore, Taylor",
+            "p2_dg_id": 22760,
+            "p2_player_name": "Hisatsune, Ryo",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4080951715463629,
+                    "p2": 0.5919048284536371
+                },
+                "fanduel": {
+                    "p1": 0.5121951219512195,
+                    "p2": 0.5348837209302325
+                }
+            },
+            "p1_dg_id": 6093,
+            "p1_player_name": "Rose, Justin",
+            "p2_dg_id": 10419,
+            "p2_player_name": "Noren, Alex",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.44070657848938394,
+                    "p2": 0.5592934215106159
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.523809523809524
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.46312843334955844,
+                    "p2": 0.5368715666504416
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.5121951219512195
+                }
+            },
+            "p1_dg_id": 10091,
+            "p1_player_name": "McIlroy, Rory",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4376016935808387,
+                    "p2": 0.5623983064191612
+                },
+                "fanduel": {
+                    "p1": 0.5121951219512195,
+                    "p2": 0.5454545454545455
+                }
+            },
+            "p1_dg_id": 17780,
+            "p1_player_name": "Pendrith, Taylor",
+            "p2_dg_id": 21891,
+            "p2_player_name": "Kitayama, Kurt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.6323874398317897,
+                    "p2": 0.36761256016821026
+                },
+                "fanduel": {
+                    "p1": 0.5833333333333334,
+                    "p2": 0.48780487804878053
+                }
+            },
+            "p1_dg_id": 14578,
+            "p1_player_name": "Henley, Russell",
+            "p2_dg_id": 16841,
+            "p2_player_name": "Lee, Min Woo",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5112495854497217,
+                    "p2": 0.48875041455027834
+                },
+                "fanduel": {
+                    "p1": 0.5348837209302325,
+                    "p2": 0.5121951219512195
+                }
+            },
+            "p1_dg_id": 14577,
+            "p1_player_name": "English, Harris",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4738810534962163,
+                    "p2": 0.5261189465037837
+                },
+                "fanduel": {
+                    "p1": 0.5,
+                    "p2": 0.5555555555555556
+                }
+            },
+            "p1_dg_id": 10104,
+            "p1_player_name": "Power, Seamus",
+            "p2_dg_id": 26096,
+            "p2_player_name": "Bhatia, Akshay",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.47662543278180836,
+                    "p2": 0.5233745672181916
+                },
+                "fanduel": {
+                    "p1": 0.5,
+                    "p2": 0.5454545454545455
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5110109935986641,
+                    "p2": 0.48898900640133597
+                },
+                "unibet": {
+                    "p1": 0.5145621076463929,
+                    "p2": 0.5555555555555556
+                }
+            },
+            "p1_dg_id": 17576,
+            "p1_player_name": "Conners, Corey",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.48551772184969083,
+                    "p2": 0.5144822781503092
+                },
+                "unibet": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                }
+            },
+            "p1_dg_id": 14459,
+            "p1_player_name": "An, Byeong Hun",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4934028201418784,
+                    "p2": 0.5065971798581214
+                },
+                "unibet": {
+                    "p1": 0.5145621076463929,
+                    "p2": 0.5555555555555556
+                }
+            },
+            "p1_dg_id": 13126,
+            "p1_player_name": "Taylor, Nick",
+            "p2_dg_id": 13872,
+            "p2_player_name": "Bradley, Keegan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4726423642573361,
+                    "p2": 0.5273576357426639
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 23604,
+            "p1_player_name": "Clark, Wyndham",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4818802704021186,
+                    "p2": 0.5181197295978813
+                },
+                "unibet": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 17488,
+            "p2_player_name": "Im, Sungjae",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4800661272078656,
+                    "p2": 0.5199338727921343
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 17646,
+            "p1_player_name": "Fitzpatrick, Matt",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5034178073852469,
+                    "p2": 0.49658219261475295
+                },
+                "unibet": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 14577,
+            "p2_player_name": "English, Harris",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49367000435350455,
+                    "p2": 0.5063299956464954
+                },
+                "unibet": {
+                    "p1": 0.5,
+                    "p2": 0.5726491321502403
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 17538,
+            "p2_player_name": "Homa, Max",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4661525875124024,
+                    "p2": 0.5338474124875977
+                },
+                "unibet": {
+                    "p1": 0.5,
+                    "p2": 0.5726491321502403
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 13900,
+            "p2_player_name": "Lowry, Shane",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5147402574747932,
+                    "p2": 0.48525974252520676
+                },
+                "unibet": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                }
+            },
+            "p1_dg_id": 14704,
+            "p1_player_name": "Putnam, Andrew",
+            "p2_dg_id": 21554,
+            "p2_player_name": "Poston, J.T.",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5032252440725244,
+                    "p2": 0.4967747559274756
+                },
+                "unibet": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5145621076463929
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.4885145482388974,
+                    "p2": 0.5114854517611026
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 19483,
+            "p2_player_name": "Burns, Sam",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5087364771876035,
+                    "p2": 0.49126352281239666
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                },
+                "unibet": {
+                    "p1": 0.5327111267373041,
+                    "p2": 0.5327111267373041
+                }
+            },
+            "p1_dg_id": 12425,
+            "p1_player_name": "Todd, Brendon",
+            "p2_dg_id": 24550,
+            "p2_player_name": "Ghim, Doug",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5103090088362933,
+                    "p2": 0.4896909911637067
+                },
+                "unibet": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5145621076463929
+                }
+            },
+            "p1_dg_id": 15470,
+            "p1_player_name": "Hossler, Beau",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5161965201018167,
+                    "p2": 0.4838034798981834
+                },
+                "unibet": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5145621076463929
+                }
+            },
+            "p1_dg_id": 16394,
+            "p1_player_name": "Jaeger, Stephan",
+            "p2_dg_id": 17511,
+            "p2_player_name": "Straka, Sepp",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4627123373678886,
+                    "p2": 0.5372876626321113
+                },
+                "unibet": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                }
+            },
+            "p1_dg_id": 17786,
+            "p1_player_name": "Davis, Cameron",
+            "p2_dg_id": 19870,
+            "p2_player_name": "McCarthy, Denny",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5138105138105138,
+                    "p2": 0.48618948618948615
+                },
+                "unibet": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.5145621076463929
+                }
+            },
+            "p1_dg_id": 17365,
+            "p1_player_name": "Mitchell, Keith",
+            "p2_dg_id": 17550,
+            "p2_player_name": "Van Rooyen, Erik",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5454546446281172,
+                    "p2": 0.5238094988662143
+                },
+                "datagolf": {
+                    "p1": 0.45279930343926855,
+                    "p2": 0.5472006965607314
+                }
+            },
+            "p1_dg_id": 16841,
+            "p1_player_name": "Lee, Min Woo",
+            "p2_dg_id": 17488,
+            "p2_player_name": "Im, Sungjae",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5454546446281172,
+                    "p2": 0.5238094988662143
+                },
+                "datagolf": {
+                    "p1": 0.47440344424883646,
+                    "p2": 0.5255965557511635
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 11676,
+            "p2_player_name": "Finau, Tony",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5121951094586559,
+                    "p2": 0.5555555555555556
+                },
+                "datagolf": {
+                    "p1": 0.5060777323710981,
+                    "p2": 0.49392226762890185
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 14636,
+            "p2_player_name": "Spieth, Jordan",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5,
+                    "p2": 0.5652176370511465
+                },
+                "datagolf": {
+                    "p1": 0.4386792452830188,
+                    "p2": 0.5613207547169811
+                }
+            },
+            "p1_dg_id": 23604,
+            "p1_player_name": "Clark, Wyndham",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.6226413567106106,
+                    "p2": 0.4444444444444444
+                },
+                "datagolf": {
+                    "p1": 0.6079034753733549,
+                    "p2": 0.3920965246266451
+                }
+            },
+            "p1_dg_id": 14578,
+            "p1_player_name": "Henley, Russell",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "bovada": {
+                    "p1": 0.5238094988662143,
+                    "p2": 0.5454546446281172
+                },
+                "datagolf": {
+                    "p1": 0.4873734738599603,
+                    "p2": 0.5126265261400397
+                }
+            },
+            "p1_dg_id": 23014,
+            "p1_player_name": "Theegala, Sahith",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5186430637348851,
+                    "p2": 0.4813569362651147
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                }
+            },
+            "p1_dg_id": 13872,
+            "p1_player_name": "Bradley, Keegan",
+            "p2_dg_id": 17550,
+            "p2_player_name": "Van Rooyen, Erik",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5712993091927822,
+                    "p2": 0.4287006908072178
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 23950,
+            "p2_player_name": "Aberg, Ludvig",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5414265568690263,
+                    "p2": 0.45857344313097376
+                },
+                "draftkings": {
+                    "p1": 0.5652173910586011,
+                    "p2": 0.48780487804878053
+                }
+            },
+            "p1_dg_id": 15575,
+            "p1_player_name": "Hoge, Tom",
+            "p2_dg_id": 21756,
+            "p2_player_name": "Cole, Eric",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5,
+                    "p2": 0.5652176370511465
+                },
+                "datagolf": {
+                    "p1": 0.4719749107065075,
+                    "p2": 0.5280250892934925
+                },
+                "draftkings": {
+                    "p1": 0.5,
+                    "p2": 0.5454545434710744
+                }
+            },
+            "p1_dg_id": 13965,
+            "p1_player_name": "Hadwin, Adam",
+            "p2_dg_id": 17576,
+            "p2_player_name": "Conners, Corey",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5623604521350823,
+                    "p2": 0.4376395478649177
+                },
+                "draftkings": {
+                    "p1": 0.5555555555555556,
+                    "p2": 0.48780487804878053
+                }
+            },
+            "p1_dg_id": 17646,
+            "p1_player_name": "Fitzpatrick, Matt",
+            "p2_dg_id": 17786,
+            "p2_player_name": "Davis, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.49294572563227207,
+                    "p2": 0.507054274367728
+                },
+                "draftkings": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5652173910586011
+                }
+            },
+            "p1_dg_id": 12423,
+            "p1_player_name": "Kirk, Chris",
+            "p2_dg_id": 14577,
+            "p2_player_name": "English, Harris",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4689336472229488,
+                    "p2": 0.5310663527770512
+                },
+                "draftkings": {
+                    "p1": 0.5,
+                    "p2": 0.5454545434710744
+                }
+            },
+            "p1_dg_id": 8825,
+            "p1_player_name": "Harman, Brian",
+            "p2_dg_id": 11676,
+            "p2_player_name": "Finau, Tony",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5236734836079853,
+                    "p2": 0.47632651639201484
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 15470,
+            "p1_player_name": "Hossler, Beau",
+            "p2_dg_id": 19960,
+            "p2_player_name": "Pavon, Matthieu",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.47601321969038113,
+                    "p2": 0.5239867803096191
+                },
+                "draftkings": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5652173910586011
+                }
+            },
+            "p1_dg_id": 9771,
+            "p1_player_name": "Day, Jason",
+            "p2_dg_id": 13562,
+            "p2_player_name": "Matsuyama, Hideki",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5011594455583646,
+                    "p2": 0.4988405544416354
+                },
+                "draftkings": {
+                    "p1": 0.5,
+                    "p2": 0.5454545434710744
+                }
+            },
+            "p1_dg_id": 16394,
+            "p1_player_name": "Jaeger, Stephan",
+            "p2_dg_id": 17365,
+            "p2_player_name": "Mitchell, Keith",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.43071922689192466,
+                    "p2": 0.5692807731080752
+                },
+                "draftkings": {
+                    "p1": 0.5,
+                    "p2": 0.5454545434710744
+                }
+            },
+            "p1_dg_id": 13900,
+            "p1_player_name": "Lowry, Shane",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4702231520223152,
+                    "p2": 0.5297768479776848
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                }
+            },
+            "p1_dg_id": 13126,
+            "p1_player_name": "Taylor, Nick",
+            "p2_dg_id": 14704,
+            "p2_player_name": "Putnam, Andrew",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5011849580036942,
+                    "p2": 0.4988150419963057
+                },
+                "draftkings": {
+                    "p1": 0.5238095235600907,
+                    "p2": 0.5238095235600907
+                }
+            },
+            "p1_dg_id": 10419,
+            "p1_player_name": "Noren, Alex",
+            "p2_dg_id": 21554,
+            "p2_player_name": "Poston, J.T.",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.3621316810832448,
+                    "p2": 0.6378683189167551
+                },
+                "draftkings": {
+                    "p1": 0.4444444444444444,
+                    "p2": 0.5999999988
+                }
+            },
+            "p1_dg_id": 6093,
+            "p1_player_name": "Rose, Justin",
+            "p2_dg_id": 18554,
+            "p2_player_name": "Rai, Aaron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4112376718988748,
+                    "p2": 0.5887623281011252
+                },
+                "draftkings": {
+                    "p1": 0.46511627906976744,
+                    "p2": 0.5833333313888889
+                }
+            },
+            "p1_dg_id": 17538,
+            "p1_player_name": "Homa, Max",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.4808740315138853,
+                    "p2": 0.5191259684861148
+                },
+                "draftkings": {
+                    "p1": 0.5,
+                    "p2": 0.5454545434710744
+                }
+            },
+            "p1_dg_id": 6430,
+            "p1_player_name": "Scott, Adam",
+            "p2_dg_id": 14459,
+            "p2_player_name": "An, Byeong Hun",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5348634868707258,
+                    "p2": 0.4651365131292742
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 14636,
+            "p1_player_name": "Spieth, Jordan",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5036958265053519,
+                    "p2": 0.496304173494648
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 17488,
+            "p1_player_name": "Im, Sungjae",
+            "p2_dg_id": 24766,
+            "p2_player_name": "Kim, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "datagolf": {
+                    "p1": 0.5653882946343161,
+                    "p2": 0.43461170536568405
+                },
+                "draftkings": {
+                    "p1": 0.5454545434710744,
+                    "p2": 0.5
+                }
+            },
+            "p1_dg_id": 19428,
+            "p1_player_name": "Zalatoris, Will",
+            "p2_dg_id": 23604,
+            "p2_player_name": "Clark, Wyndham",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5,
+                    "p2": 0.5652176370511465
+                },
+                "datagolf": {
+                    "p1": 0.429881976116701,
+                    "p2": 0.5701180238832989
+                }
+            },
+            "p1_dg_id": 17538,
+            "p1_player_name": "Homa, Max",
+            "p2_dg_id": 22085,
+            "p2_player_name": "Morikawa, Collin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5744683295609913
+                },
+                "datagolf": {
+                    "p1": 0.4515960866769771,
+                    "p2": 0.548403913323023
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 14139,
+            "p2_player_name": "Thomas, Justin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5454555371918859,
+                    "p2": 0.5238097732427491
+                },
+                "datagolf": {
+                    "p1": 0.5492210805435864,
+                    "p2": 0.4507789194564136
+                }
+            },
+            "p1_dg_id": 12808,
+            "p1_player_name": "Grillo, Emiliano",
+            "p2_dg_id": 15470,
+            "p2_player_name": "Hossler, Beau",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5744683295609913
+                },
+                "datagolf": {
+                    "p1": 0.4215647028108955,
+                    "p2": 0.5784352971891045
+                }
+            },
+            "p1_dg_id": 11676,
+            "p1_player_name": "Finau, Tony",
+            "p2_dg_id": 14578,
+            "p2_player_name": "Henley, Russell",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5833318750036458,
+                    "p2": 0.47619047619047616
+                },
+                "datagolf": {
+                    "p1": 0.5608976030314092,
+                    "p2": 0.4391023969685908
+                }
+            },
+            "p1_dg_id": 18841,
+            "p1_player_name": "Hovland, Viktor",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5238097732427491,
+                    "p2": 0.5454555371918859
+                },
+                "datagolf": {
+                    "p1": 0.5021663172606569,
+                    "p2": 0.4978336827393432
+                }
+            },
+            "p1_dg_id": 22760,
+            "p1_player_name": "Hisatsune, Ryo",
+            "p2_dg_id": 26096,
+            "p2_player_name": "Bhatia, Akshay",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.4444444444444444,
+                    "p2": 0.6078436139949914
+                },
+                "datagolf": {
+                    "p1": 0.39746388835519536,
+                    "p2": 0.6025361116448046
+                }
+            },
+            "p1_dg_id": 19396,
+            "p1_player_name": "Knapp, Jake",
+            "p2_dg_id": 26653,
+            "p2_player_name": "Eckroat, Austin",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5918350437366098,
+                    "p2": 0.46511627906976744
+                },
+                "datagolf": {
+                    "p1": 0.5308886686488272,
+                    "p2": 0.4691113313511727
+                }
+            },
+            "p1_dg_id": 23950,
+            "p1_player_name": "Aberg, Ludvig",
+            "p2_dg_id": 26651,
+            "p2_player_name": "Young, Cameron",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.48780487804878053,
+                    "p2": 0.5744683295609913
+                },
+                "datagolf": {
+                    "p1": 0.44103831031003166,
+                    "p2": 0.5589616896899683
+                }
+            },
+            "p1_dg_id": 13126,
+            "p1_player_name": "Taylor, Nick",
+            "p2_dg_id": 15575,
+            "p2_player_name": "Hoge, Tom",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "caesars": {
+                    "p1": 0.5652176370511465,
+                    "p2": 0.5
+                },
+                "datagolf": {
+                    "p1": 0.5564255141455268,
+                    "p2": 0.4435744858544733
+                }
+            },
+            "p1_dg_id": 12294,
+            "p1_player_name": "Fleetwood, Tommy",
+            "p2_dg_id": 17646,
+            "p2_player_name": "Fitzpatrick, Matt",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betmgm": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5780346820809249
+                },
+                "datagolf": {
+                    "p1": 0.4225352112676056,
+                    "p2": 0.5774647887323944
+                }
+            },
+            "p1_dg_id": 14139,
+            "p1_player_name": "Thomas, Justin",
+            "p2_dg_id": 19895,
+            "p2_player_name": "Schauffele, Xander",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betmgm": {
+                    "p1": 0.5405405405405405,
+                    "p2": 0.5128205128205129
+                },
+                "datagolf": {
+                    "p1": 0.5637443969561138,
+                    "p2": 0.4362556030438861
+                }
+            },
+            "p1_dg_id": 15466,
+            "p1_player_name": "Cantlay, Patrick",
+            "p2_dg_id": 19428,
+            "p2_player_name": "Zalatoris, Will",
+            "ties": "void"
+        },
+        {
+            "odds": {
+                "betmgm": {
+                    "p1": 0.47619047619047616,
+                    "p2": 0.5780346820809249
+                },
+                "datagolf": {
+                    "p1": 0.41493999340014237,
+                    "p2": 0.5850600065998576
+                }
+            },
+            "p1_dg_id": 13562,
+            "p1_player_name": "Matsuyama, Hideki",
+            "p2_dg_id": 18841,
+            "p2_player_name": "Hovland, Viktor",
+            "ties": "void"
+        }
+    ]
 }

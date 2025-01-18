@@ -127,7 +127,7 @@
             "top_20": 0.410325,
             "top_3": 0.077125,
             "top_30": 0.5607,
-            "top_5": 0.12300000000000001,
+            "top_5": 0.123,
             "win": 0.0268
         },
         {
@@ -266,7 +266,7 @@
             "first_round_leader": 0.015325,
             "make_cut": 0.75085,
             "player_name": "Im, Sungjae",
-            "top_10": 0.18100000000000002,
+            "top_10": 0.181,
             "top_20": 0.342825,
             "top_3": 0.053675,
             "top_30": 0.492825,
@@ -451,7 +451,7 @@
             "top_10": 0.11875,
             "top_20": 0.25715,
             "top_3": 0.030475,
-            "top_30": 0.39399999999999996,
+            "top_30": 0.394,
             "top_5": 0.05495,
             "win": 0.0093
         },
@@ -464,7 +464,7 @@
             "top_10": 0.1225,
             "top_20": 0.26315,
             "top_3": 0.03165,
-            "top_30": 0.40399999999999997,
+            "top_30": 0.404,
             "top_5": 0.055325,
             "win": 0.00905
         },
@@ -614,7 +614,7 @@
         {
             "dg_id": 17511,
             "fin_text": "T30",
-            "first_round_leader": 0.011000000000000001,
+            "first_round_leader": 0.011,
             "make_cut": 0.6288,
             "player_name": "Straka, Sepp",
             "top_10": 0.08645,
@@ -696,7 +696,7 @@
             "make_cut": 0.629575,
             "player_name": "Simpson, Webb",
             "top_10": 0.079375,
-            "top_20": 0.18899999999999997,
+            "top_20": 0.189,
             "top_3": 0.0172,
             "top_30": 0.317375,
             "top_5": 0.033775,
@@ -725,7 +725,7 @@
             "top_20": 0.163175,
             "top_3": 0.01425,
             "top_30": 0.276825,
-            "top_5": 0.026000000000000002,
+            "top_5": 0.026,
             "win": 0.003875
         },
         {
@@ -820,6 +820,19 @@
             "win": 0.00215
         },
         {
+            "dg_id": 16841,
+            "fin_text": "T14",
+            "first_round_leader": 0.0059,
+            "make_cut": 0.52565,
+            "player_name": "Lee, Min Woo",
+            "top_10": 0.039125,
+            "top_20": 0.10935,
+            "top_3": 0.007125,
+            "top_30": 0.20525,
+            "top_5": 0.0149,
+            "win": 0.00185
+        },
+        {
             "dg_id": 7820,
             "fin_text": "CUT",
             "first_round_leader": 0.005975,
@@ -843,19 +856,6 @@
             "top_3": 0.00755,
             "top_30": 0.200925,
             "top_5": 0.015225,
-            "win": 0.00185
-        },
-        {
-            "dg_id": 16841,
-            "fin_text": "T14",
-            "first_round_leader": 0.0059,
-            "make_cut": 0.52565,
-            "player_name": "Lee, Min Woo",
-            "top_10": 0.039125,
-            "top_20": 0.10935,
-            "top_3": 0.007125,
-            "top_30": 0.20525,
-            "top_5": 0.0149,
             "win": 0.00185
         },
         {
@@ -1106,19 +1106,6 @@
             "win": 2.5e-05
         },
         {
-            "dg_id": 294,
-            "fin_text": "CUT",
-            "first_round_leader": 0.0,
-            "make_cut": 0.005775,
-            "player_name": "Lyle, Sandy",
-            "top_10": 0.0,
-            "top_20": 0.0,
-            "top_3": 0.0,
-            "top_30": 0.0,
-            "top_5": 0.0,
-            "win": 0.0
-        },
-        {
             "dg_id": 5513,
             "fin_text": "CUT",
             "first_round_leader": 0.0006,
@@ -1129,6 +1116,19 @@
             "top_3": 2.5e-05,
             "top_30": 0.01255,
             "top_5": 0.0002,
+            "win": 0.0
+        },
+        {
+            "dg_id": 28617,
+            "fin_text": "CUT",
+            "first_round_leader": 5e-05,
+            "make_cut": 0.045425,
+            "player_name": "Shepherd, Laird",
+            "top_10": 0.0,
+            "top_20": 0.0003,
+            "top_3": 0.0,
+            "top_30": 0.0008,
+            "top_5": 0.0,
             "win": 0.0
         },
         {
@@ -1158,15 +1158,15 @@
             "win": 0.0
         },
         {
-            "dg_id": 28617,
+            "dg_id": 294,
             "fin_text": "CUT",
-            "first_round_leader": 5e-05,
-            "make_cut": 0.045425,
-            "player_name": "Shepherd, Laird",
+            "first_round_leader": 0.0,
+            "make_cut": 0.005775,
+            "player_name": "Lyle, Sandy",
             "top_10": 0.0,
-            "top_20": 0.0003,
+            "top_20": 0.0,
             "top_3": 0.0,
-            "top_30": 0.0008,
+            "top_30": 0.0,
             "top_5": 0.0,
             "win": 0.0
         },
@@ -1558,7 +1558,7 @@
             "top_10": 0.1297,
             "top_20": 0.27305,
             "top_3": 0.033875,
-            "top_30": 0.41700000000000004,
+            "top_30": 0.417,
             "top_5": 0.06045,
             "win": 0.010175
         },
@@ -1608,7 +1608,7 @@
             "make_cut": 0.701825,
             "player_name": "Varner III, Harold",
             "top_10": 0.12465,
-            "top_20": 0.26899999999999996,
+            "top_20": 0.269,
             "top_3": 0.0321,
             "top_30": 0.410725,
             "top_5": 0.057725,
@@ -1810,19 +1810,6 @@
             "win": 0.004175
         },
         {
-            "dg_id": 12337,
-            "fin_text": "T14",
-            "first_round_leader": 0.009575,
-            "make_cut": 0.6124,
-            "player_name": "Kokrak, Jason",
-            "top_10": 0.075125,
-            "top_20": 0.179325,
-            "top_3": 0.015725,
-            "top_30": 0.30205,
-            "top_5": 0.03135,
-            "win": 0.0039
-        },
-        {
             "dg_id": 17511,
             "fin_text": "T30",
             "first_round_leader": 0.008625,
@@ -1833,6 +1820,19 @@
             "top_3": 0.0166,
             "top_30": 0.308325,
             "top_5": 0.0313,
+            "win": 0.0039
+        },
+        {
+            "dg_id": 12337,
+            "fin_text": "T14",
+            "first_round_leader": 0.009575,
+            "make_cut": 0.6124,
+            "player_name": "Kokrak, Jason",
+            "top_10": 0.075125,
+            "top_20": 0.179325,
+            "top_3": 0.015725,
+            "top_30": 0.30205,
+            "top_5": 0.03135,
             "win": 0.0039
         },
         {
@@ -1910,7 +1910,7 @@
             "top_20": 0.14205,
             "top_3": 0.0115,
             "top_30": 0.248275,
-            "top_5": 0.022000000000000002,
+            "top_5": 0.022,
             "win": 0.0029
         },
         {
@@ -2190,7 +2190,7 @@
             "dg_id": 7398,
             "fin_text": "T10",
             "first_round_leader": 0.00145,
-            "make_cut": 0.39299999999999996,
+            "make_cut": 0.393,
             "player_name": "Schwartzel, Charl",
             "top_10": 0.011425,
             "top_20": 0.043175,
@@ -2252,19 +2252,6 @@
             "win": 0.00015
         },
         {
-            "dg_id": 29327,
-            "fin_text": "CUT",
-            "first_round_leader": 0.001225,
-            "make_cut": 0.2544,
-            "player_name": "Greaser, Austin",
-            "top_10": 0.002875,
-            "top_20": 0.01285,
-            "top_3": 0.00025,
-            "top_30": 0.0351,
-            "top_5": 0.000625,
-            "win": 2.5e-05
-        },
-        {
             "dg_id": 5513,
             "fin_text": "CUT",
             "first_round_leader": 0.000525,
@@ -2291,6 +2278,45 @@
             "win": 2.5e-05
         },
         {
+            "dg_id": 29327,
+            "fin_text": "CUT",
+            "first_round_leader": 0.001225,
+            "make_cut": 0.2544,
+            "player_name": "Greaser, Austin",
+            "top_10": 0.002875,
+            "top_20": 0.01285,
+            "top_3": 0.00025,
+            "top_30": 0.0351,
+            "top_5": 0.000625,
+            "win": 2.5e-05
+        },
+        {
+            "dg_id": 139,
+            "fin_text": "CUT",
+            "first_round_leader": 0.0,
+            "make_cut": 0.005925,
+            "player_name": "Mize, Larry",
+            "top_10": 0.0,
+            "top_20": 0.0,
+            "top_3": 0.0,
+            "top_30": 2.5e-05,
+            "top_5": 0.0,
+            "win": 0.0
+        },
+        {
+            "dg_id": 3485,
+            "fin_text": "CUT",
+            "first_round_leader": 7.5e-05,
+            "make_cut": 0.037075,
+            "player_name": "Olazabal, Jose Maria",
+            "top_10": 2.5e-05,
+            "top_20": 0.000125,
+            "top_3": 0.0,
+            "top_30": 0.000525,
+            "top_5": 0.0,
+            "win": 0.0
+        },
+        {
             "dg_id": 294,
             "fin_text": "CUT",
             "first_round_leader": 0.0,
@@ -2313,32 +2339,6 @@
             "top_20": 0.000175,
             "top_3": 0.0,
             "top_30": 0.000475,
-            "top_5": 0.0,
-            "win": 0.0
-        },
-        {
-            "dg_id": 3485,
-            "fin_text": "CUT",
-            "first_round_leader": 7.5e-05,
-            "make_cut": 0.037075,
-            "player_name": "Olazabal, Jose Maria",
-            "top_10": 2.5e-05,
-            "top_20": 0.000125,
-            "top_3": 0.0,
-            "top_30": 0.000525,
-            "top_5": 0.0,
-            "win": 0.0
-        },
-        {
-            "dg_id": 139,
-            "fin_text": "CUT",
-            "first_round_leader": 0.0,
-            "make_cut": 0.005925,
-            "player_name": "Mize, Larry",
-            "top_10": 0.0,
-            "top_20": 0.0,
-            "top_3": 0.0,
-            "top_30": 2.5e-05,
             "top_5": 0.0,
             "win": 0.0
         },

@@ -25,7 +25,7 @@ api_requests <- list(
 )
 
 # Start capturing
-httptest::start_capturing("tests/testthat/fixtures")
+httptest::start_capturing("tests/testthat/")
 
 # Loop through each API request, execute it, and handle success or error
 for (api_request in api_requests) {

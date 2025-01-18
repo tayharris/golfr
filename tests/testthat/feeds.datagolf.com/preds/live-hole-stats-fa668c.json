@@ -1,978 +1,23 @@
 {
     "courses": [
         {
-            "course_code": "CC",
-            "course_key": "734",
+            "course_code": "BH",
+            "course_key": "009",
             "rounds": [
                 {
                     "holes": [
                         {
                             "afternoon_wave": {
-                                "avg_score": 3.792,
-                                "birdies": 16,
-                                "bogeys": 1,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 55,
-                                "players_thru": 72
-                            },
-                            "hole": 1,
-                            "morning_wave": {
-                                "avg_score": 3.889,
-                                "birdies": 14,
-                                "bogeys": 4,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 53,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.84,
-                                "birdies": 30,
-                                "bogeys": 5,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 108,
-                                "players_thru": 144
-                            },
-                            "yardage": 365
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.931,
-                                "birdies": 18,
-                                "bogeys": 9,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 43,
-                                "players_thru": 72
-                            },
-                            "hole": 2,
-                            "morning_wave": {
-                                "avg_score": 4.028,
-                                "birdies": 11,
-                                "bogeys": 9,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.979,
-                                "birdies": 29,
-                                "bogeys": 18,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 93,
-                                "players_thru": 144
-                            },
-                            "yardage": 464
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.472,
-                                "birdies": 36,
-                                "bogeys": 6,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 4,
-                                "pars": 26,
-                                "players_thru": 72
-                            },
-                            "hole": 3,
-                            "morning_wave": {
-                                "avg_score": 4.319,
-                                "birdies": 44,
-                                "bogeys": 3,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 4,
-                                "pars": 21,
-                                "players_thru": 72
-                            },
-                            "par": 5,
-                            "total": {
-                                "avg_score": 4.396,
-                                "birdies": 80,
-                                "bogeys": 9,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 8,
-                                "pars": 47,
-                                "players_thru": 144
-                            },
-                            "yardage": 538
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.056,
-                                "birdies": 12,
-                                "bogeys": 14,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 45,
-                                "players_thru": 72
-                            },
-                            "hole": 4,
-                            "morning_wave": {
-                                "avg_score": 3.931,
-                                "birdies": 17,
-                                "bogeys": 10,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 44,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.993,
-                                "birdies": 29,
-                                "bogeys": 24,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 89,
-                                "players_thru": 144
-                            },
-                            "yardage": 395
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.125,
-                                "birdies": 7,
-                                "bogeys": 6,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 55,
-                                "players_thru": 72
-                            },
-                            "hole": 5,
-                            "morning_wave": {
-                                "avg_score": 3.056,
-                                "birdies": 8,
-                                "bogeys": 12,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 52,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.09,
-                                "birdies": 15,
-                                "bogeys": 18,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 107,
-                                "players_thru": 144
-                            },
-                            "yardage": 217
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.333,
-                                "birdies": 7,
-                                "bogeys": 20,
-                                "doubles_or_worse": 5,
-                                "eagles_or_better": 0,
-                                "pars": 40,
-                                "players_thru": 72
-                            },
-                            "hole": 6,
-                            "morning_wave": {
-                                "avg_score": 4.194,
-                                "birdies": 10,
-                                "bogeys": 16,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 42,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.264,
-                                "birdies": 17,
-                                "bogeys": 36,
-                                "doubles_or_worse": 9,
-                                "eagles_or_better": 0,
-                                "pars": 82,
-                                "players_thru": 144
-                            },
-                            "yardage": 479
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.222,
-                                "birdies": 2,
-                                "bogeys": 16,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 53,
-                                "players_thru": 72
-                            },
-                            "hole": 7,
-                            "morning_wave": {
-                                "avg_score": 3.222,
-                                "birdies": 1,
-                                "bogeys": 15,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 55,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.222,
-                                "birdies": 3,
-                                "bogeys": 31,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 108,
-                                "players_thru": 144
-                            },
-                            "yardage": 226
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.931,
-                                "birdies": 15,
-                                "bogeys": 10,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 47,
-                                "players_thru": 72
-                            },
-                            "hole": 8,
-                            "morning_wave": {
-                                "avg_score": 3.972,
-                                "birdies": 10,
-                                "bogeys": 8,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 54,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.951,
-                                "birdies": 25,
-                                "bogeys": 18,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 101,
-                                "players_thru": 144
-                            },
-                            "yardage": 427
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.986,
-                                "birdies": 12,
-                                "bogeys": 11,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 49,
-                                "players_thru": 72
-                            },
-                            "hole": 9,
-                            "morning_wave": {
-                                "avg_score": 3.833,
-                                "birdies": 18,
-                                "bogeys": 6,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 48,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.91,
-                                "birdies": 30,
-                                "bogeys": 17,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 97,
-                                "players_thru": 144
-                            },
-                            "yardage": 421
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.042,
-                                "birdies": 49,
-                                "bogeys": 0,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 10,
-                                "pars": 13,
-                                "players_thru": 72
-                            },
-                            "hole": 10,
-                            "morning_wave": {
-                                "avg_score": 4.222,
-                                "birdies": 50,
-                                "bogeys": 2,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 4,
-                                "pars": 16,
-                                "players_thru": 72
-                            },
-                            "par": 5,
-                            "total": {
-                                "avg_score": 4.132,
-                                "birdies": 99,
-                                "bogeys": 2,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 14,
-                                "pars": 29,
-                                "players_thru": 144
-                            },
-                            "yardage": 530
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.972,
-                                "birdies": 12,
-                                "bogeys": 4,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 54,
-                                "players_thru": 72
-                            },
-                            "hole": 11,
-                            "morning_wave": {
-                                "avg_score": 3.833,
-                                "birdies": 22,
-                                "bogeys": 8,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 41,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.903,
-                                "birdies": 34,
-                                "bogeys": 12,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 0,
-                                "pars": 95,
-                                "players_thru": 144
-                            },
-                            "yardage": 450
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.028,
-                                "birdies": 4,
-                                "bogeys": 4,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 63,
-                                "players_thru": 72
-                            },
-                            "hole": 12,
-                            "morning_wave": {
-                                "avg_score": 3.931,
-                                "birdies": 10,
-                                "bogeys": 5,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 57,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.979,
-                                "birdies": 14,
-                                "bogeys": 9,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 120,
-                                "players_thru": 144
-                            },
-                            "yardage": 438
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.917,
-                                "birdies": 15,
-                                "bogeys": 7,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 1,
-                                "pars": 47,
-                                "players_thru": 72
-                            },
-                            "hole": 13,
-                            "morning_wave": {
-                                "avg_score": 3.861,
-                                "birdies": 16,
-                                "bogeys": 6,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 1,
-                                "pars": 48,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.889,
-                                "birdies": 31,
-                                "bogeys": 13,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 2,
-                                "pars": 95,
-                                "players_thru": 144
-                            },
-                            "yardage": 388
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.903,
-                                "birdies": 15,
-                                "bogeys": 6,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
-                            "hole": 14,
-                            "morning_wave": {
-                                "avg_score": 4.056,
-                                "birdies": 11,
-                                "bogeys": 11,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 48,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.979,
-                                "birdies": 26,
-                                "bogeys": 17,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 0,
-                                "pars": 98,
-                                "players_thru": 144
-                            },
-                            "yardage": 465
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.222,
-                                "birdies": 8,
-                                "bogeys": 12,
-                                "doubles_or_worse": 6,
-                                "eagles_or_better": 0,
-                                "pars": 46,
-                                "players_thru": 72
-                            },
-                            "hole": 15,
-                            "morning_wave": {
-                                "avg_score": 3.056,
-                                "birdies": 10,
-                                "bogeys": 4,
-                                "doubles_or_worse": 5,
-                                "eagles_or_better": 0,
-                                "pars": 53,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.139,
-                                "birdies": 18,
-                                "bogeys": 16,
-                                "doubles_or_worse": 11,
-                                "eagles_or_better": 0,
-                                "pars": 99,
-                                "players_thru": 144
-                            },
-                            "yardage": 179
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.042,
-                                "birdies": 7,
-                                "bogeys": 8,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 56,
-                                "players_thru": 72
-                            },
-                            "hole": 16,
-                            "morning_wave": {
                                 "avg_score": 4.167,
-                                "birdies": 8,
-                                "bogeys": 12,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 0,
-                                "pars": 49,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.104,
-                                "birdies": 15,
-                                "bogeys": 20,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 105,
-                                "players_thru": 144
-                            },
-                            "yardage": 434
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.25,
-                                "birdies": 6,
-                                "bogeys": 12,
-                                "doubles_or_worse": 6,
-                                "eagles_or_better": 0,
-                                "pars": 48,
-                                "players_thru": 72
-                            },
-                            "hole": 17,
-                            "morning_wave": {
-                                "avg_score": 3.125,
-                                "birdies": 6,
-                                "bogeys": 13,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 52,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.188,
-                                "birdies": 12,
-                                "bogeys": 25,
-                                "doubles_or_worse": 7,
-                                "eagles_or_better": 0,
-                                "pars": 100,
-                                "players_thru": 144
-                            },
-                            "yardage": 175
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.708,
-                                "birdies": 26,
-                                "bogeys": 7,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 38,
-                                "players_thru": 72
-                            },
-                            "hole": 18,
-                            "morning_wave": {
-                                "avg_score": 4.472,
-                                "birdies": 39,
-                                "bogeys": 3,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 29,
-                                "players_thru": 72
-                            },
-                            "par": 5,
-                            "total": {
-                                "avg_score": 4.59,
-                                "birdies": 65,
-                                "bogeys": 10,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 2,
-                                "pars": 67,
-                                "players_thru": 144
-                            },
-                            "yardage": 556
-                        }
-                    ],
-                    "round_num": 1
-                },
-                {
-                    "holes": [
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.978,
-                                "birdies": 9,
-                                "bogeys": 6,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 29,
-                                "players_thru": 45
-                            },
-                            "hole": 1,
-                            "morning_wave": {
-                                "avg_score": 3.861,
-                                "birdies": 17,
-                                "bogeys": 7,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 48,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 3.906,
-                                "birdies": 26,
-                                "bogeys": 13,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 77,
-                                "players_thru": 117
-                            },
-                            "yardage": 365
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.238,
                                 "birdies": 3,
-                                "bogeys": 7,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 0,
-                                "pars": 29,
-                                "players_thru": 42
-                            },
-                            "hole": 2,
-                            "morning_wave": {
-                                "avg_score": 4.097,
-                                "birdies": 8,
-                                "bogeys": 13,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.149,
-                                "birdies": 11,
-                                "bogeys": 20,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 79,
-                                "players_thru": 114
-                            },
-                            "yardage": 464
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.846,
-                                "birdies": 12,
-                                "bogeys": 8,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 18,
-                                "players_thru": 39
-                            },
-                            "hole": 3,
-                            "morning_wave": {
-                                "avg_score": 4.875,
-                                "birdies": 20,
-                                "bogeys": 11,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 41,
-                                "players_thru": 72
-                            },
-                            "par": 5,
-                            "total": {
-                                "avg_score": 4.865,
-                                "birdies": 32,
-                                "bogeys": 19,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 59,
-                                "players_thru": 111
-                            },
-                            "yardage": 538
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.971,
-                                "birdies": 4,
-                                "bogeys": 3,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 27,
-                                "players_thru": 34
-                            },
-                            "hole": 4,
-                            "morning_wave": {
-                                "avg_score": 4.056,
-                                "birdies": 10,
-                                "bogeys": 10,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.028,
-                                "birdies": 14,
-                                "bogeys": 13,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 77,
-                                "players_thru": 106
-                            },
-                            "yardage": 395
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.067,
-                                "birdies": 3,
-                                "bogeys": 5,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 22,
-                                "players_thru": 30
-                            },
-                            "hole": 5,
-                            "morning_wave": {
-                                "avg_score": 3.181,
-                                "birdies": 5,
-                                "bogeys": 14,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 51,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.147,
-                                "birdies": 8,
-                                "bogeys": 19,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 73,
-                                "players_thru": 102
-                            },
-                            "yardage": 217
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.148,
-                                "birdies": 4,
-                                "bogeys": 4,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 18,
-                                "players_thru": 27
-                            },
-                            "hole": 6,
-                            "morning_wave": {
-                                "avg_score": 4.319,
-                                "birdies": 6,
-                                "bogeys": 16,
-                                "doubles_or_worse": 5,
-                                "eagles_or_better": 0,
-                                "pars": 45,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.273,
-                                "birdies": 10,
-                                "bogeys": 20,
-                                "doubles_or_worse": 6,
-                                "eagles_or_better": 0,
-                                "pars": 63,
-                                "players_thru": 99
-                            },
-                            "yardage": 479
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.042,
-                                "birdies": 3,
-                                "bogeys": 6,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 14,
-                                "players_thru": 24
-                            },
-                            "hole": 7,
-                            "morning_wave": {
-                                "avg_score": 2.931,
-                                "birdies": 14,
                                 "bogeys": 9,
                                 "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 49,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 2.958,
-                                "birdies": 17,
-                                "bogeys": 15,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 63,
-                                "players_thru": 96
-                            },
-                            "yardage": 226
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.143,
-                                "birdies": 2,
-                                "bogeys": 3,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 15,
-                                "players_thru": 21
-                            },
-                            "hole": 8,
-                            "morning_wave": {
-                                "avg_score": 4.083,
-                                "birdies": 8,
-                                "bogeys": 14,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.097,
-                                "birdies": 10,
-                                "bogeys": 17,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 65,
-                                "players_thru": 93
-                            },
-                            "yardage": 427
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.0,
-                                "birdies": 0,
-                                "bogeys": 0,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 15,
-                                "players_thru": 15
-                            },
-                            "hole": 9,
-                            "morning_wave": {
-                                "avg_score": 4.028,
-                                "birdies": 13,
-                                "bogeys": 11,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 46,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.023,
-                                "birdies": 13,
-                                "bogeys": 11,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 61,
-                                "players_thru": 87
-                            },
-                            "yardage": 421
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.417,
-                                "birdies": 29,
-                                "bogeys": 3,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 1,
-                                "pars": 15,
-                                "players_thru": 48
-                            },
-                            "hole": 10,
-                            "morning_wave": {
-                                "avg_score": 4.25,
-                                "birdies": 46,
-                                "bogeys": 2,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 5,
-                                "pars": 19,
-                                "players_thru": 72
-                            },
-                            "par": 5,
-                            "total": {
-                                "avg_score": 4.317,
-                                "birdies": 75,
-                                "bogeys": 5,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 6,
-                                "pars": 34,
-                                "players_thru": 120
-                            },
-                            "yardage": 530
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.238,
-                                "birdies": 4,
-                                "bogeys": 6,
-                                "doubles_or_worse": 4,
-                                "eagles_or_better": 0,
-                                "pars": 28,
-                                "players_thru": 42
-                            },
-                            "hole": 11,
-                            "morning_wave": {
-                                "avg_score": 4.069,
-                                "birdies": 16,
-                                "bogeys": 10,
-                                "doubles_or_worse": 5,
-                                "eagles_or_better": 0,
-                                "pars": 41,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.132,
-                                "birdies": 20,
-                                "bogeys": 16,
-                                "doubles_or_worse": 9,
-                                "eagles_or_better": 0,
-                                "pars": 69,
-                                "players_thru": 114
-                            },
-                            "yardage": 450
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.333,
-                                "birdies": 2,
-                                "bogeys": 11,
-                                "doubles_or_worse": 2,
                                 "eagles_or_better": 0,
                                 "pars": 24,
-                                "players_thru": 39
+                                "players_thru": 36
                             },
-                            "hole": 12,
+                            "hole": 1,
                             "morning_wave": {
-                                "avg_score": 4.069,
-                                "birdies": 12,
-                                "bogeys": 17,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 0,
-                                "pars": 43,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.162,
-                                "birdies": 14,
-                                "bogeys": 28,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 67,
-                                "players_thru": 111
-                            },
-                            "yardage": 438
-                        },
-                        {
-                            "afternoon_wave": {
                                 "avg_score": 3.97,
                                 "birdies": 6,
                                 "bogeys": 5,
@@ -981,195 +26,2312 @@
                                 "pars": 22,
                                 "players_thru": 33
                             },
-                            "hole": 13,
-                            "morning_wave": {
-                                "avg_score": 4.222,
-                                "birdies": 4,
-                                "bogeys": 16,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 50,
-                                "players_thru": 72
-                            },
                             "par": 4,
                             "total": {
-                                "avg_score": 4.143,
-                                "birdies": 10,
-                                "bogeys": 21,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 72,
-                                "players_thru": 105
-                            },
-                            "yardage": 388
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.241,
-                                "birdies": 3,
-                                "bogeys": 8,
-                                "doubles_or_worse": 1,
-                                "eagles_or_better": 0,
-                                "pars": 17,
-                                "players_thru": 29
-                            },
-                            "hole": 14,
-                            "morning_wave": {
-                                "avg_score": 4.097,
+                                "avg_score": 4.072,
                                 "birdies": 9,
-                                "bogeys": 12,
-                                "doubles_or_worse": 2,
-                                "eagles_or_better": 0,
-                                "pars": 49,
-                                "players_thru": 72
-                            },
-                            "par": 4,
-                            "total": {
-                                "avg_score": 4.139,
-                                "birdies": 12,
-                                "bogeys": 20,
-                                "doubles_or_worse": 3,
-                                "eagles_or_better": 0,
-                                "pars": 66,
-                                "players_thru": 101
-                            },
-                            "yardage": 465
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 3.375,
-                                "birdies": 1,
-                                "bogeys": 10,
+                                "bogeys": 14,
                                 "doubles_or_worse": 0,
                                 "eagles_or_better": 0,
-                                "pars": 13,
-                                "players_thru": 24
+                                "pars": 46,
+                                "players_thru": 69
                             },
-                            "hole": 15,
-                            "morning_wave": {
-                                "avg_score": 3.444,
-                                "birdies": 8,
-                                "bogeys": 20,
-                                "doubles_or_worse": 8,
+                            "yardage": 461
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.278,
+                                "birdies": 2,
+                                "bogeys": 10,
+                                "doubles_or_worse": 1,
                                 "eagles_or_better": 0,
-                                "pars": 36,
-                                "players_thru": 72
+                                "pars": 23,
+                                "players_thru": 36
+                            },
+                            "hole": 2,
+                            "morning_wave": {
+                                "avg_score": 3.152,
+                                "birdies": 1,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 26,
+                                "players_thru": 33
                             },
                             "par": 3,
                             "total": {
-                                "avg_score": 3.427,
-                                "birdies": 9,
-                                "bogeys": 30,
-                                "doubles_or_worse": 8,
+                                "avg_score": 3.217,
+                                "birdies": 3,
+                                "bogeys": 16,
+                                "doubles_or_worse": 1,
                                 "eagles_or_better": 0,
                                 "pars": 49,
-                                "players_thru": 96
+                                "players_thru": 69
                             },
-                            "yardage": 179
+                            "yardage": 231
                         },
                         {
                             "afternoon_wave": {
-                                "avg_score": 4.286,
-                                "birdies": 1,
-                                "bogeys": 5,
-                                "doubles_or_worse": 1,
+                                "avg_score": 3.806,
+                                "birdies": 10,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
                                 "eagles_or_better": 0,
-                                "pars": 14,
-                                "players_thru": 21
+                                "pars": 23,
+                                "players_thru": 36
                             },
-                            "hole": 16,
+                            "hole": 3,
                             "morning_wave": {
-                                "avg_score": 4.083,
+                                "avg_score": 4.182,
                                 "birdies": 6,
-                                "bogeys": 10,
-                                "doubles_or_worse": 1,
+                                "bogeys": 7,
+                                "doubles_or_worse": 2,
                                 "eagles_or_better": 0,
-                                "pars": 55,
-                                "players_thru": 72
+                                "pars": 18,
+                                "players_thru": 33
                             },
                             "par": 4,
                             "total": {
-                                "avg_score": 4.129,
-                                "birdies": 7,
-                                "bogeys": 15,
+                                "avg_score": 3.986,
+                                "birdies": 16,
+                                "bogeys": 10,
                                 "doubles_or_worse": 2,
                                 "eagles_or_better": 0,
-                                "pars": 69,
-                                "players_thru": 93
+                                "pars": 41,
+                                "players_thru": 69
                             },
                             "yardage": 434
                         },
                         {
                             "afternoon_wave": {
-                                "avg_score": 3.611,
-                                "birdies": 1,
-                                "bogeys": 3,
-                                "doubles_or_worse": 4,
+                                "avg_score": 4.722,
+                                "birdies": 14,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
                                 "eagles_or_better": 0,
-                                "pars": 10,
-                                "players_thru": 18
+                                "pars": 18,
+                                "players_thru": 36
                             },
-                            "hole": 17,
+                            "hole": 4,
                             "morning_wave": {
-                                "avg_score": 3.361,
-                                "birdies": 8,
-                                "bogeys": 9,
-                                "doubles_or_worse": 11,
-                                "eagles_or_better": 0,
-                                "pars": 44,
-                                "players_thru": 72
-                            },
-                            "par": 3,
-                            "total": {
-                                "avg_score": 3.411,
-                                "birdies": 9,
-                                "bogeys": 12,
-                                "doubles_or_worse": 15,
-                                "eagles_or_better": 0,
-                                "pars": 54,
-                                "players_thru": 90
-                            },
-                            "yardage": 175
-                        },
-                        {
-                            "afternoon_wave": {
-                                "avg_score": 4.833,
-                                "birdies": 4,
+                                "avg_score": 4.667,
+                                "birdies": 13,
                                 "bogeys": 2,
                                 "doubles_or_worse": 0,
                                 "eagles_or_better": 0,
-                                "pars": 6,
-                                "players_thru": 12
-                            },
-                            "hole": 18,
-                            "morning_wave": {
-                                "avg_score": 4.597,
-                                "birdies": 28,
-                                "bogeys": 5,
-                                "doubles_or_worse": 0,
-                                "eagles_or_better": 3,
-                                "pars": 36,
-                                "players_thru": 72
+                                "pars": 18,
+                                "players_thru": 33
                             },
                             "par": 5,
                             "total": {
-                                "avg_score": 4.631,
-                                "birdies": 32,
+                                "avg_score": 4.696,
+                                "birdies": 27,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 36,
+                                "players_thru": 69
+                            },
+                            "yardage": 590
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.917,
+                                "birdies": 8,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 36
+                            },
+                            "hole": 5,
+                            "morning_wave": {
+                                "avg_score": 4.03,
+                                "birdies": 4,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.971,
+                                "birdies": 12,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 47,
+                                "players_thru": 69
+                            },
+                            "yardage": 390
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.917,
+                                "birdies": 10,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 36
+                            },
+                            "hole": 6,
+                            "morning_wave": {
+                                "avg_score": 4.818,
+                                "birdies": 12,
+                                "bogeys": 4,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 33
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.87,
+                                "birdies": 22,
+                                "bogeys": 9,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 36,
+                                "players_thru": 69
+                            },
+                            "yardage": 555
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.167,
+                                "birdies": 3,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 36
+                            },
+                            "hole": 7,
+                            "morning_wave": {
+                                "avg_score": 3.0,
+                                "birdies": 5,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 33
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.087,
+                                "birdies": 8,
+                                "bogeys": 12,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 48,
+                                "players_thru": 69
+                            },
+                            "yardage": 199
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.333,
+                                "birdies": 3,
+                                "bogeys": 11,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 36
+                            },
+                            "hole": 8,
+                            "morning_wave": {
+                                "avg_score": 4.121,
+                                "birdies": 3,
                                 "bogeys": 7,
                                 "doubles_or_worse": 0,
-                                "eagles_or_better": 3,
-                                "pars": 42,
-                                "players_thru": 84
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 33
                             },
-                            "yardage": 556
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.232,
+                                "birdies": 6,
+                                "bogeys": 18,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 43,
+                                "players_thru": 69
+                            },
+                            "yardage": 460
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.306,
+                                "birdies": 1,
+                                "bogeys": 8,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 36
+                            },
+                            "hole": 9,
+                            "morning_wave": {
+                                "avg_score": 4.182,
+                                "birdies": 1,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.246,
+                                "birdies": 2,
+                                "bogeys": 15,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 50,
+                                "players_thru": 69
+                            },
+                            "yardage": 480
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.861,
+                                "birdies": 9,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 36
+                            },
+                            "hole": 10,
+                            "morning_wave": {
+                                "avg_score": 3.545,
+                                "birdies": 16,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.71,
+                                "birdies": 25,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 39,
+                                "players_thru": 69
+                            },
+                            "yardage": 400
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.139,
+                                "birdies": 7,
+                                "bogeys": 8,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 36
+                            },
+                            "hole": 11,
+                            "morning_wave": {
+                                "avg_score": 4.242,
+                                "birdies": 5,
+                                "bogeys": 11,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.188,
+                                "birdies": 12,
+                                "bogeys": 19,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 35,
+                                "players_thru": 69
+                            },
+                            "yardage": 438
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.667,
+                                "birdies": 13,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 2,
+                                "pars": 16,
+                                "players_thru": 36
+                            },
+                            "hole": 12,
+                            "morning_wave": {
+                                "avg_score": 4.667,
+                                "birdies": 13,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 33
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.667,
+                                "birdies": 26,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 2,
+                                "pars": 34,
+                                "players_thru": 69
+                            },
+                            "yardage": 574
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.056,
+                                "birdies": 8,
+                                "bogeys": 3,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 36
+                            },
+                            "hole": 13,
+                            "morning_wave": {
+                                "avg_score": 3.909,
+                                "birdies": 5,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 26,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.986,
+                                "birdies": 13,
+                                "bogeys": 5,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 48,
+                                "players_thru": 69
+                            },
+                            "yardage": 382
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 2.972,
+                                "birdies": 6,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 36
+                            },
+                            "hole": 14,
+                            "morning_wave": {
+                                "avg_score": 3.03,
+                                "birdies": 4,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 33
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.0,
+                                "birdies": 10,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 49,
+                                "players_thru": 69
+                            },
+                            "yardage": 215
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.444,
+                                "birdies": 1,
+                                "bogeys": 9,
+                                "doubles_or_worse": 4,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 36
+                            },
+                            "hole": 15,
+                            "morning_wave": {
+                                "avg_score": 4.061,
+                                "birdies": 4,
+                                "bogeys": 4,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.261,
+                                "birdies": 5,
+                                "bogeys": 13,
+                                "doubles_or_worse": 5,
+                                "eagles_or_better": 0,
+                                "pars": 46,
+                                "players_thru": 69
+                            },
+                            "yardage": 467
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.417,
+                                "birdies": 22,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 13,
+                                "players_thru": 36
+                            },
+                            "hole": 16,
+                            "morning_wave": {
+                                "avg_score": 4.152,
+                                "birdies": 23,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 3,
+                                "pars": 6,
+                                "players_thru": 33
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.29,
+                                "birdies": 45,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 3,
+                                "pars": 19,
+                                "players_thru": 69
+                            },
+                            "yardage": 511
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 2.972,
+                                "birdies": 5,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 36
+                            },
+                            "hole": 17,
+                            "morning_wave": {
+                                "avg_score": 3.0,
+                                "birdies": 5,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 33
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 2.986,
+                                "birdies": 10,
+                                "bogeys": 9,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 50,
+                                "players_thru": 69
+                            },
+                            "yardage": 221
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.083,
+                                "birdies": 3,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 36
+                            },
+                            "hole": 18,
+                            "morning_wave": {
+                                "avg_score": 4.0,
+                                "birdies": 7,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 33
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.043,
+                                "birdies": 10,
+                                "bogeys": 11,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 47,
+                                "players_thru": 69
+                            },
+                            "yardage": 458
+                        }
+                    ],
+                    "round_num": 1
+                },
+                {
+                    "holes": [
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.971,
+                                "birdies": 4,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 28,
+                                "players_thru": 35
+                            },
+                            "hole": 1,
+                            "morning_wave": {
+                                "avg_score": 4.235,
+                                "birdies": 4,
+                                "bogeys": 7,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.101,
+                                "birdies": 8,
+                                "bogeys": 10,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 49,
+                                "players_thru": 69
+                            },
+                            "yardage": 461
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.086,
+                                "birdies": 3,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 26,
+                                "players_thru": 35
+                            },
+                            "hole": 2,
+                            "morning_wave": {
+                                "avg_score": 3.206,
+                                "birdies": 6,
+                                "bogeys": 11,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 34
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.145,
+                                "birdies": 9,
+                                "bogeys": 17,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 42,
+                                "players_thru": 69
+                            },
+                            "yardage": 231
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.8,
+                                "birdies": 10,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 35
+                            },
+                            "hole": 3,
+                            "morning_wave": {
+                                "avg_score": 3.941,
+                                "birdies": 9,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.87,
+                                "birdies": 19,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 40,
+                                "players_thru": 69
+                            },
+                            "yardage": 434
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.714,
+                                "birdies": 14,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 17,
+                                "players_thru": 35
+                            },
+                            "hole": 4,
+                            "morning_wave": {
+                                "avg_score": 4.676,
+                                "birdies": 13,
+                                "bogeys": 0,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 34
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.696,
+                                "birdies": 27,
+                                "bogeys": 4,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 37,
+                                "players_thru": 69
+                            },
+                            "yardage": 590
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.2,
+                                "birdies": 3,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 35
+                            },
+                            "hole": 5,
+                            "morning_wave": {
+                                "avg_score": 4.176,
+                                "birdies": 3,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.188,
+                                "birdies": 6,
+                                "bogeys": 17,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 45,
+                                "players_thru": 69
+                            },
+                            "yardage": 390
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.657,
+                                "birdies": 13,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 1,
+                                "pars": 18,
+                                "players_thru": 35
+                            },
+                            "hole": 6,
+                            "morning_wave": {
+                                "avg_score": 4.912,
+                                "birdies": 14,
+                                "bogeys": 5,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 2,
+                                "pars": 10,
+                                "players_thru": 34
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.783,
+                                "birdies": 27,
+                                "bogeys": 8,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 3,
+                                "pars": 28,
+                                "players_thru": 69
+                            },
+                            "yardage": 555
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.029,
+                                "birdies": 4,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 26,
+                                "players_thru": 35
+                            },
+                            "hole": 7,
+                            "morning_wave": {
+                                "avg_score": 2.941,
+                                "birdies": 6,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 34
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 2.986,
+                                "birdies": 10,
+                                "bogeys": 9,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 50,
+                                "players_thru": 69
+                            },
+                            "yardage": 199
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.286,
+                                "birdies": 0,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 35
+                            },
+                            "hole": 8,
+                            "morning_wave": {
+                                "avg_score": 4.353,
+                                "birdies": 1,
+                                "bogeys": 9,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.319,
+                                "birdies": 1,
+                                "bogeys": 19,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 47,
+                                "players_thru": 69
+                            },
+                            "yardage": 460
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.314,
+                                "birdies": 0,
+                                "bogeys": 11,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 35
+                            },
+                            "hole": 9,
+                            "morning_wave": {
+                                "avg_score": 4.176,
+                                "birdies": 3,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.246,
+                                "birdies": 3,
+                                "bogeys": 18,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 47,
+                                "players_thru": 69
+                            },
+                            "yardage": 480
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.057,
+                                "birdies": 3,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 35
+                            },
+                            "hole": 10,
+                            "morning_wave": {
+                                "avg_score": 3.941,
+                                "birdies": 8,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.0,
+                                "birdies": 11,
+                                "bogeys": 11,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 47,
+                                "players_thru": 69
+                            },
+                            "yardage": 400
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.114,
+                                "birdies": 5,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 35
+                            },
+                            "hole": 11,
+                            "morning_wave": {
+                                "avg_score": 4.265,
+                                "birdies": 4,
+                                "bogeys": 11,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.188,
+                                "birdies": 9,
+                                "bogeys": 18,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 40,
+                                "players_thru": 69
+                            },
+                            "yardage": 438
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.971,
+                                "birdies": 7,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 1,
+                                "pars": 21,
+                                "players_thru": 35
+                            },
+                            "hole": 12,
+                            "morning_wave": {
+                                "avg_score": 4.824,
+                                "birdies": 9,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 1,
+                                "pars": 19,
+                                "players_thru": 34
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.899,
+                                "birdies": 16,
+                                "bogeys": 10,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 2,
+                                "pars": 40,
+                                "players_thru": 69
+                            },
+                            "yardage": 574
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.971,
+                                "birdies": 5,
+                                "bogeys": 2,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 35
+                            },
+                            "hole": 13,
+                            "morning_wave": {
+                                "avg_score": 3.912,
+                                "birdies": 8,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.942,
+                                "birdies": 13,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 48,
+                                "players_thru": 69
+                            },
+                            "yardage": 382
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 2.829,
+                                "birdies": 10,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 35
+                            },
+                            "hole": 14,
+                            "morning_wave": {
+                                "avg_score": 3.029,
+                                "birdies": 5,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 34
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 2.928,
+                                "birdies": 15,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 44,
+                                "players_thru": 69
+                            },
+                            "yardage": 215
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.229,
+                                "birdies": 5,
+                                "bogeys": 9,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 35
+                            },
+                            "hole": 15,
+                            "morning_wave": {
+                                "avg_score": 4.382,
+                                "birdies": 0,
+                                "bogeys": 13,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.304,
+                                "birdies": 5,
+                                "bogeys": 22,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 40,
+                                "players_thru": 69
+                            },
+                            "yardage": 467
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.457,
+                                "birdies": 21,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 12,
+                                "players_thru": 35
+                            },
+                            "hole": 16,
+                            "morning_wave": {
+                                "avg_score": 4.618,
+                                "birdies": 18,
+                                "bogeys": 1,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 13,
+                                "players_thru": 34
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.536,
+                                "birdies": 39,
+                                "bogeys": 3,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 69
+                            },
+                            "yardage": 511
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 2.829,
+                                "birdies": 8,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 35
+                            },
+                            "hole": 17,
+                            "morning_wave": {
+                                "avg_score": 3.118,
+                                "birdies": 3,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 34
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 2.971,
+                                "birdies": 11,
+                                "bogeys": 9,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 49,
+                                "players_thru": 69
+                            },
+                            "yardage": 221
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.114,
+                                "birdies": 7,
+                                "bogeys": 9,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 35
+                            },
+                            "hole": 18,
+                            "morning_wave": {
+                                "avg_score": 4.206,
+                                "birdies": 4,
+                                "bogeys": 9,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 34
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.159,
+                                "birdies": 11,
+                                "bogeys": 18,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 38,
+                                "players_thru": 69
+                            },
+                            "yardage": 458
                         }
                     ],
                     "round_num": 2
+                },
+                {
+                    "holes": [
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.067,
+                                "birdies": 3,
+                                "bogeys": 3,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 30
+                            },
+                            "hole": 1,
+                            "morning_wave": {
+                                "avg_score": 4.036,
+                                "birdies": 3,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.052,
+                                "birdies": 6,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 44,
+                                "players_thru": 58
+                            },
+                            "yardage": 461
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.1,
+                                "birdies": 1,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 30
+                            },
+                            "hole": 2,
+                            "morning_wave": {
+                                "avg_score": 3.036,
+                                "birdies": 3,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.069,
+                                "birdies": 4,
+                                "bogeys": 8,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 46,
+                                "players_thru": 58
+                            },
+                            "yardage": 231
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.9,
+                                "birdies": 8,
+                                "bogeys": 3,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 3,
+                            "morning_wave": {
+                                "avg_score": 3.929,
+                                "birdies": 6,
+                                "bogeys": 2,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.914,
+                                "birdies": 14,
+                                "bogeys": 5,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 37,
+                                "players_thru": 58
+                            },
+                            "yardage": 434
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.9,
+                                "birdies": 11,
+                                "bogeys": 4,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 13,
+                                "players_thru": 30
+                            },
+                            "hole": 4,
+                            "morning_wave": {
+                                "avg_score": 4.714,
+                                "birdies": 12,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 12,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.81,
+                                "birdies": 23,
+                                "bogeys": 8,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 58
+                            },
+                            "yardage": 590
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.167,
+                                "birdies": 3,
+                                "bogeys": 8,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 30
+                            },
+                            "hole": 5,
+                            "morning_wave": {
+                                "avg_score": 4.071,
+                                "birdies": 2,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.121,
+                                "birdies": 5,
+                                "bogeys": 12,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 41,
+                                "players_thru": 58
+                            },
+                            "yardage": 390
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.8,
+                                "birdies": 13,
+                                "bogeys": 3,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 12,
+                                "players_thru": 30
+                            },
+                            "hole": 6,
+                            "morning_wave": {
+                                "avg_score": 4.786,
+                                "birdies": 15,
+                                "bogeys": 2,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 1,
+                                "pars": 8,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.793,
+                                "birdies": 28,
+                                "bogeys": 5,
+                                "doubles_or_worse": 4,
+                                "eagles_or_better": 1,
+                                "pars": 20,
+                                "players_thru": 58
+                            },
+                            "yardage": 555
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.2,
+                                "birdies": 0,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 30
+                            },
+                            "hole": 7,
+                            "morning_wave": {
+                                "avg_score": 2.964,
+                                "birdies": 5,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.086,
+                                "birdies": 5,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 43,
+                                "players_thru": 58
+                            },
+                            "yardage": 199
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.133,
+                                "birdies": 3,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 8,
+                            "morning_wave": {
+                                "avg_score": 4.214,
+                                "birdies": 3,
+                                "bogeys": 9,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.172,
+                                "birdies": 6,
+                                "bogeys": 14,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 37,
+                                "players_thru": 58
+                            },
+                            "yardage": 460
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.5,
+                                "birdies": 0,
+                                "bogeys": 13,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 30
+                            },
+                            "hole": 9,
+                            "morning_wave": {
+                                "avg_score": 4.5,
+                                "birdies": 0,
+                                "bogeys": 10,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.5,
+                                "birdies": 0,
+                                "bogeys": 23,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 32,
+                                "players_thru": 58
+                            },
+                            "yardage": 480
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.767,
+                                "birdies": 10,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 17,
+                                "players_thru": 30
+                            },
+                            "hole": 10,
+                            "morning_wave": {
+                                "avg_score": 3.964,
+                                "birdies": 5,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.862,
+                                "birdies": 15,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 36,
+                                "players_thru": 58
+                            },
+                            "yardage": 400
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.067,
+                                "birdies": 4,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 30
+                            },
+                            "hole": 11,
+                            "morning_wave": {
+                                "avg_score": 3.964,
+                                "birdies": 5,
+                                "bogeys": 4,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.017,
+                                "birdies": 9,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 39,
+                                "players_thru": 58
+                            },
+                            "yardage": 438
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.633,
+                                "birdies": 10,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 1,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 12,
+                            "morning_wave": {
+                                "avg_score": 4.643,
+                                "birdies": 11,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.638,
+                                "birdies": 21,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 1,
+                                "pars": 34,
+                                "players_thru": 58
+                            },
+                            "yardage": 574
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.9,
+                                "birdies": 6,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 13,
+                            "morning_wave": {
+                                "avg_score": 3.893,
+                                "birdies": 6,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.897,
+                                "birdies": 12,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 40,
+                                "players_thru": 58
+                            },
+                            "yardage": 382
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.333,
+                                "birdies": 0,
+                                "bogeys": 10,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 30
+                            },
+                            "hole": 14,
+                            "morning_wave": {
+                                "avg_score": 3.214,
+                                "birdies": 1,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.276,
+                                "birdies": 1,
+                                "bogeys": 17,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 40,
+                                "players_thru": 58
+                            },
+                            "yardage": 215
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.467,
+                                "birdies": 2,
+                                "bogeys": 14,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 13,
+                                "players_thru": 30
+                            },
+                            "hole": 15,
+                            "morning_wave": {
+                                "avg_score": 4.286,
+                                "birdies": 3,
+                                "bogeys": 11,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 14,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.379,
+                                "birdies": 5,
+                                "bogeys": 25,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 58
+                            },
+                            "yardage": 467
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.767,
+                                "birdies": 15,
+                                "bogeys": 4,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 9,
+                                "players_thru": 30
+                            },
+                            "hole": 16,
+                            "morning_wave": {
+                                "avg_score": 4.786,
+                                "birdies": 10,
+                                "bogeys": 2,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 15,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.776,
+                                "birdies": 25,
+                                "bogeys": 6,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 24,
+                                "players_thru": 58
+                            },
+                            "yardage": 511
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.133,
+                                "birdies": 3,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 17,
+                            "morning_wave": {
+                                "avg_score": 2.893,
+                                "birdies": 4,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.017,
+                                "birdies": 7,
+                                "bogeys": 6,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 44,
+                                "players_thru": 58
+                            },
+                            "yardage": 221
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.333,
+                                "birdies": 3,
+                                "bogeys": 6,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 18,
+                            "morning_wave": {
+                                "avg_score": 4.036,
+                                "birdies": 8,
+                                "bogeys": 3,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 14,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.19,
+                                "birdies": 11,
+                                "bogeys": 9,
+                                "doubles_or_worse": 6,
+                                "eagles_or_better": 0,
+                                "pars": 32,
+                                "players_thru": 58
+                            },
+                            "yardage": 458
+                        }
+                    ],
+                    "round_num": 3
+                },
+                {
+                    "holes": [
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.2,
+                                "birdies": 4,
+                                "bogeys": 5,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 30
+                            },
+                            "hole": 1,
+                            "morning_wave": {
+                                "avg_score": 4.25,
+                                "birdies": 3,
+                                "bogeys": 6,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 17,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.224,
+                                "birdies": 7,
+                                "bogeys": 11,
+                                "doubles_or_worse": 4,
+                                "eagles_or_better": 0,
+                                "pars": 36,
+                                "players_thru": 58
+                            },
+                            "yardage": 461
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.233,
+                                "birdies": 2,
+                                "bogeys": 9,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 19,
+                                "players_thru": 30
+                            },
+                            "hole": 2,
+                            "morning_wave": {
+                                "avg_score": 3.036,
+                                "birdies": 2,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.138,
+                                "birdies": 4,
+                                "bogeys": 12,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 42,
+                                "players_thru": 58
+                            },
+                            "yardage": 231
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.033,
+                                "birdies": 4,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 3,
+                            "morning_wave": {
+                                "avg_score": 4.357,
+                                "birdies": 3,
+                                "bogeys": 5,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 17,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.19,
+                                "birdies": 7,
+                                "bogeys": 10,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 38,
+                                "players_thru": 58
+                            },
+                            "yardage": 434
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 5.167,
+                                "birdies": 4,
+                                "bogeys": 7,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 4,
+                            "morning_wave": {
+                                "avg_score": 5.036,
+                                "birdies": 5,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 17,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 5.103,
+                                "birdies": 9,
+                                "bogeys": 13,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 35,
+                                "players_thru": 58
+                            },
+                            "yardage": 590
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.833,
+                                "birdies": 7,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 5,
+                            "morning_wave": {
+                                "avg_score": 4.036,
+                                "birdies": 2,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.931,
+                                "birdies": 9,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 44,
+                                "players_thru": 58
+                            },
+                            "yardage": 390
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.633,
+                                "birdies": 13,
+                                "bogeys": 0,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 30
+                            },
+                            "hole": 6,
+                            "morning_wave": {
+                                "avg_score": 4.464,
+                                "birdies": 16,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 11,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.552,
+                                "birdies": 29,
+                                "bogeys": 1,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 58
+                            },
+                            "yardage": 555
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.233,
+                                "birdies": 1,
+                                "bogeys": 8,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 30
+                            },
+                            "hole": 7,
+                            "morning_wave": {
+                                "avg_score": 3.179,
+                                "birdies": 2,
+                                "bogeys": 5,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.207,
+                                "birdies": 3,
+                                "bogeys": 13,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 41,
+                                "players_thru": 58
+                            },
+                            "yardage": 199
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.4,
+                                "birdies": 3,
+                                "bogeys": 11,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 14,
+                                "players_thru": 30
+                            },
+                            "hole": 8,
+                            "morning_wave": {
+                                "avg_score": 4.321,
+                                "birdies": 3,
+                                "bogeys": 6,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.362,
+                                "birdies": 6,
+                                "bogeys": 17,
+                                "doubles_or_worse": 5,
+                                "eagles_or_better": 0,
+                                "pars": 30,
+                                "players_thru": 58
+                            },
+                            "yardage": 460
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.133,
+                                "birdies": 3,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 30
+                            },
+                            "hole": 9,
+                            "morning_wave": {
+                                "avg_score": 4.321,
+                                "birdies": 1,
+                                "bogeys": 8,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.224,
+                                "birdies": 4,
+                                "bogeys": 15,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 38,
+                                "players_thru": 58
+                            },
+                            "yardage": 480
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.067,
+                                "birdies": 6,
+                                "bogeys": 4,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 10,
+                            "morning_wave": {
+                                "avg_score": 3.857,
+                                "birdies": 6,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 3.966,
+                                "birdies": 12,
+                                "bogeys": 6,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 38,
+                                "players_thru": 58
+                            },
+                            "yardage": 400
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.167,
+                                "birdies": 5,
+                                "bogeys": 8,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 30
+                            },
+                            "hole": 11,
+                            "morning_wave": {
+                                "avg_score": 4.107,
+                                "birdies": 3,
+                                "bogeys": 4,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 20,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.138,
+                                "birdies": 8,
+                                "bogeys": 12,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 36,
+                                "players_thru": 58
+                            },
+                            "yardage": 438
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.933,
+                                "birdies": 7,
+                                "bogeys": 5,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 12,
+                            "morning_wave": {
+                                "avg_score": 4.821,
+                                "birdies": 6,
+                                "bogeys": 1,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 21,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.879,
+                                "birdies": 13,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 39,
+                                "players_thru": 58
+                            },
+                            "yardage": 574
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.033,
+                                "birdies": 4,
+                                "bogeys": 3,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 30
+                            },
+                            "hole": 13,
+                            "morning_wave": {
+                                "avg_score": 4.036,
+                                "birdies": 3,
+                                "bogeys": 2,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 22,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.034,
+                                "birdies": 7,
+                                "bogeys": 5,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 44,
+                                "players_thru": 58
+                            },
+                            "yardage": 382
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.233,
+                                "birdies": 0,
+                                "bogeys": 7,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 23,
+                                "players_thru": 30
+                            },
+                            "hole": 14,
+                            "morning_wave": {
+                                "avg_score": 3.071,
+                                "birdies": 4,
+                                "bogeys": 6,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.155,
+                                "birdies": 4,
+                                "bogeys": 13,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 41,
+                                "players_thru": 58
+                            },
+                            "yardage": 215
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.233,
+                                "birdies": 4,
+                                "bogeys": 6,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 18,
+                                "players_thru": 30
+                            },
+                            "hole": 15,
+                            "morning_wave": {
+                                "avg_score": 4.107,
+                                "birdies": 6,
+                                "bogeys": 4,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.172,
+                                "birdies": 10,
+                                "bogeys": 10,
+                                "doubles_or_worse": 4,
+                                "eagles_or_better": 0,
+                                "pars": 34,
+                                "players_thru": 58
+                            },
+                            "yardage": 467
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.3,
+                                "birdies": 20,
+                                "bogeys": 1,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 2,
+                                "pars": 6,
+                                "players_thru": 30
+                            },
+                            "hole": 16,
+                            "morning_wave": {
+                                "avg_score": 4.393,
+                                "birdies": 17,
+                                "bogeys": 2,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 1,
+                                "pars": 8,
+                                "players_thru": 28
+                            },
+                            "par": 5,
+                            "total": {
+                                "avg_score": 4.345,
+                                "birdies": 37,
+                                "bogeys": 3,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 3,
+                                "pars": 14,
+                                "players_thru": 58
+                            },
+                            "yardage": 511
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 3.033,
+                                "birdies": 2,
+                                "bogeys": 3,
+                                "doubles_or_worse": 0,
+                                "eagles_or_better": 0,
+                                "pars": 25,
+                                "players_thru": 30
+                            },
+                            "hole": 17,
+                            "morning_wave": {
+                                "avg_score": 3.357,
+                                "birdies": 2,
+                                "bogeys": 8,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 16,
+                                "players_thru": 28
+                            },
+                            "par": 3,
+                            "total": {
+                                "avg_score": 3.19,
+                                "birdies": 4,
+                                "bogeys": 11,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 41,
+                                "players_thru": 58
+                            },
+                            "yardage": 221
+                        },
+                        {
+                            "afternoon_wave": {
+                                "avg_score": 4.333,
+                                "birdies": 3,
+                                "bogeys": 11,
+                                "doubles_or_worse": 1,
+                                "eagles_or_better": 0,
+                                "pars": 15,
+                                "players_thru": 30
+                            },
+                            "hole": 18,
+                            "morning_wave": {
+                                "avg_score": 4.357,
+                                "birdies": 4,
+                                "bogeys": 10,
+                                "doubles_or_worse": 2,
+                                "eagles_or_better": 0,
+                                "pars": 12,
+                                "players_thru": 28
+                            },
+                            "par": 4,
+                            "total": {
+                                "avg_score": 4.345,
+                                "birdies": 7,
+                                "bogeys": 21,
+                                "doubles_or_worse": 3,
+                                "eagles_or_better": 0,
+                                "pars": 27,
+                                "players_thru": 58
+                            },
+                            "yardage": 458
+                        }
+                    ],
+                    "round_num": 4
                 }
             ]
         }
     ],
-    "current_round": 2,
-    "event_name": "Cognizant Classic in The Palm Beaches",
-    "last_update": "2024-03-01 3:00 PM"
+    "current_round": 4,
+    "event_name": "Arnold Palmer Invitational presented by Mastercard",
+    "last_update": "2024-03-10 5:45 PM"
 }

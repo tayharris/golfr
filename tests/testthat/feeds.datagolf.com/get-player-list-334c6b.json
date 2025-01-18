@@ -21,7 +21,7 @@
         "player_name": "Abreu, Alexandre"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Turkey",
         "country_code": "TUR",
         "dg_id": 21644,
@@ -6763,6 +6763,13 @@
     },
     {
         "amateur": 0,
+        "country": "Chile",
+        "country_code": "CHI",
+        "dg_id": 19253,
+        "player_name": "Gana, Toto"
+    },
+    {
+        "amateur": 0,
         "country": "India",
         "country_code": "IND",
         "dg_id": 18058,
@@ -8435,6 +8442,13 @@
         "player_name": "Haskew, Luke"
     },
     {
+        "amateur": 1,
+        "country": "Cayman Islands",
+        "country_code": "CAY",
+        "dg_id": 31960,
+        "player_name": "Hastings, Justin"
+    },
+    {
         "amateur": 0,
         "country": "United States",
         "country_code": "USA",
@@ -8715,6 +8729,13 @@
         "player_name": "Hernandez, Juan Pablo"
     },
     {
+        "amateur": 1,
+        "country": "Puerto Rico",
+        "country_code": "PUR",
+        "dg_id": 31957,
+        "player_name": "Hernandez, Kelvin"
+    },
+    {
         "amateur": 0,
         "country": "United States",
         "country_code": "USA",
@@ -8779,9 +8800,9 @@
     },
     {
         "amateur": 0,
-        "country": "unknown",
-        "country_code": "unknown",
-        "dg_id": 10063774,
+        "country": "United States",
+        "country_code": "USA",
+        "dg_id": 31956,
         "player_name": "Hicks, Caleb"
     },
     {
@@ -12530,7 +12551,7 @@
         "player_name": "Legendre, Nathan"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "France",
         "country_code": "FRA",
         "dg_id": 23700,
@@ -13042,7 +13063,7 @@
     },
     {
         "amateur": 1,
-        "country": "United States",
+        "country": "Canada",
         "country_code": "USA",
         "dg_id": 30890,
         "player_name": "Long, Beni"
@@ -13553,7 +13574,7 @@
     },
     {
         "amateur": 1,
-        "country": "United States",
+        "country": "Ireland",
         "country_code": "IRL",
         "dg_id": 31366,
         "player_name": "Maguire, Alex"
@@ -14756,7 +14777,7 @@
         "player_name": "Micheluzzi, David"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Italy",
         "country_code": "ITA",
         "dg_id": 25656,
@@ -15120,7 +15141,7 @@
         "player_name": "Morales, Omar"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Ireland",
         "country_code": "IRL",
         "dg_id": 28673,
@@ -15766,7 +15787,7 @@
     {
         "amateur": 0,
         "country": "Puerto Rico",
-        "country_code": "USA",
+        "country_code": "PUR",
         "dg_id": 23094,
         "player_name": "Nido, Chris"
     },
@@ -16273,6 +16294,13 @@
         "country_code": "POR",
         "dg_id": 26611,
         "player_name": "Oliveira, Francisco"
+    },
+    {
+        "amateur": 0,
+        "country": "South Africa",
+        "country_code": "RSA",
+        "dg_id": 29790,
+        "player_name": "Olivier, Willie"
     },
     {
         "amateur": 0,
@@ -16878,6 +16906,13 @@
     },
     {
         "amateur": 1,
+        "country": "Puerto Rico",
+        "country_code": "PUR",
+        "dg_id": 31959,
+        "player_name": "Pena, Evan"
+    },
+    {
+        "amateur": 1,
         "country": "Dominican Republic",
         "country_code": "DOM",
         "dg_id": 16881,
@@ -16973,6 +17008,13 @@
         "country_code": "FRA",
         "dg_id": 20730,
         "player_name": "Perez, Victor"
+    },
+    {
+        "amateur": 0,
+        "country": "Peru",
+        "country_code": "PER",
+        "dg_id": 22812,
+        "player_name": "Perico, Julian"
     },
     {
         "amateur": 0,
@@ -17417,7 +17459,7 @@
     },
     {
         "amateur": 0,
-        "country": "Australia",
+        "country": "South Africa",
         "country_code": "RSA",
         "dg_id": 27900,
         "player_name": "Potgieter, Aldrich"
@@ -19349,7 +19391,7 @@
     },
     {
         "amateur": 1,
-        "country": "England",
+        "country": "United Arab Emirates",
         "country_code": "ENG",
         "dg_id": 30554,
         "player_name": "Selvaraj, Jonathan"
@@ -20601,6 +20643,13 @@
         "player_name": "Stewart, Tim"
     },
     {
+        "amateur": 1,
+        "country": "Australia",
+        "country_code": "AUS",
+        "dg_id": 31958,
+        "player_name": "Steyn, Gareth"
+    },
+    {
         "amateur": 0,
         "country": "South Africa",
         "country_code": "RSA",
@@ -20837,6 +20886,13 @@
         "country_code": "ENG",
         "dg_id": 15326,
         "player_name": "Sullivan, Andy"
+    },
+    {
+        "amateur": 0,
+        "country": "United States",
+        "country_code": "USA",
+        "dg_id": 29923,
+        "player_name": "Sullivan, Patrick"
     },
     {
         "amateur": 0,
@@ -21992,6 +22048,13 @@
         "country_code": "RSA",
         "dg_id": 23151,
         "player_name": "Van Niekerk, Danie"
+    },
+    {
+        "amateur": 1,
+        "country": "United States",
+        "country_code": "USA",
+        "dg_id": 31955,
+        "player_name": "Van Paris, Jackson"
     },
     {
         "amateur": 0,
@@ -23590,7 +23653,7 @@
         "player_name": "Wyatt, Bobby"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "United States",
         "country_code": "USA",
         "dg_id": 31909,
@@ -23618,7 +23681,7 @@
         "player_name": "Yadav, Sandeep"
     },
     {
-        "amateur": 1,
+        "amateur": 0,
         "country": "Turkey",
         "country_code": "TUR",
         "dg_id": 23577,
@@ -23627,7 +23690,7 @@
     {
         "amateur": 1,
         "country": "United States",
-        "country_code": "HKG",
+        "country_code": "USA",
         "dg_id": 27418,
         "player_name": "Yang, Alexander"
     },
@@ -23714,6 +23777,13 @@
         "country_code": "CAN",
         "dg_id": 29925,
         "player_name": "Yellamaraju, Sudarshan"
+    },
+    {
+        "amateur": 0,
+        "country": "Argentina",
+        "country_code": "ARG",
+        "dg_id": 27289,
+        "player_name": "Yenidjeian, Aram"
     },
     {
         "amateur": 0,
