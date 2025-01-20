@@ -1,0 +1,11 @@
+{
+    "tournament_id": "test_tournament",
+    "event_id": "test_event",
+    "field_updates": [
+        {
+            "player_id": 1234,
+            "status": "IN",
+            "updated_at": "2024-03-13T12:00:00Z"
+        }
+    ]
+}

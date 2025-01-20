@@ -1,18 +1,15 @@
 test_that("dg_field_updates returns a dataframe for default 'pga'", {
-  httptest::with_mock_api({
+  with_mock_api({
     result <- dg_field_updates("pga")
-    print(class(result))
-    expect_true(is.data.frame(result), "dg_field_updates should return a dataframe for 'pga'.")
+    expect_s3_class(result, "data.frame")
   })
 })
 
 test_that("dg_field_updates for 'pga' has core top level columns", {
-  httptest::with_mock_api({
+  with_mock_api({
     result <- dg_field_updates("pga")
-    core_columns <- c("event_name", "current_round",  "last_updated") # need to add field back later
-    for (col in core_columns) {
-      expect_true(col %in% names(result), info = paste("Missing core top-level column:", col))
-    }
+    expected_cols <- c("current_round", "event_id", "event_name", "last_updated")
+    expect_true(all(expected_cols %in% colnames(result)))
   })
 })
 

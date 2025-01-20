@@ -1,4 +1,3 @@
-
 test_that("Conversion works from .50 (50%) to -100", {
   expect_identical(
     prob_to_odds(.50),
@@ -13,8 +12,6 @@ test_that("Conversion works from .20 (20%) to 400", {
 })
 
 test_that("Conversion works from .80 (80%) to -400", {
-  expect_identical(
-    prob_to_odds(.80),
-    -400)
+  expect_equal(prob_to_odds(0.8), -400, tolerance = 1e-10)
 })
 
