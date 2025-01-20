@@ -15,9 +15,12 @@ steps:
     image: rocker/tidyverse:4.3.2
     environment:
       DG_API_KEY: FAKE_KEY_FOR_TESTING
+      _R_CHECK_FORCE_SUGGESTS_: false
+      _R_CHECK_CRAN_INCOMING_: false
     commands:
       - R -e 'install.packages(c("devtools", "httptest"))'
       - R -e 'devtools::install_deps(dependencies = TRUE)'
       - R -e 'devtools::install()'
       - R -e 'Sys.setenv(DG_API_KEY = "FAKE_KEY_FOR_TESTING")'
       - R -e 'devtools::test()'
+      - R -e 'devtools::check(error_on = "error")'
